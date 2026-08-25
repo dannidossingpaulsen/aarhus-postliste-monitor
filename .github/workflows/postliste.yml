@@ -1,0 +1,60 @@
+name: Aarhus postliste monitor
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 5 * * 1-5"
+    - cron: "30 6 * * 1-5"
+
+permissions:
+  contents: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check Copenhagen time
+        id: localtime
+        shell: bash
+        run: |
+          HOUR=$(TZ=Europe/Copenhagen date +%H)
+          MINUTE=$(TZ=Europe/Copenhagen date +%M)
+          echo "hour=$HOUR" >> "$GITHUB_OUTPUT"
+          echo "minute=$MINUTE" >> "$GITHUB_OUTPUT"
+          echo "København: $(TZ=Europe/Copenhagen date)"
+
+      - uses: actions/setup-python@v5
+        if: github.event_name == 'workflow_dispatch' || (steps.localtime.outputs.hour == '07' && steps.localtime.outputs.minute == '30')
+        with:
+          python-version: "3.12"
+
+      - name: Fetch postlists
+        if: github.event_name == 'workflow_dispatch' || (steps.localtime.outputs.hour == '07' && steps.localtime.outputs.minute == '30')
+        run: python monitor.py
+
+      - name: Send email briefing
+        if: github.event_name == 'workflow_dispatch' || (steps.localtime.outputs.hour == '07' && steps.localtime.outputs.minute == '30')
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+        run: python notify.py
+
+      - name: Commit data
+        if: github.event_name == 'workflow_dispatch' || (steps.localtime.outputs.hour == '07' && steps.localtime.outputs.minute == '30')
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "Ingen ændringer."
+          else
+            git commit -m "Update Aarhus postlists"
+            git push
+          fi
