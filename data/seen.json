@@ -1,1 +1,502 @@
-{}
+{
+  "id:382040": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Meningstilkendegivelse til Aarhus Byråd: Oxfam Danmarks dialogprojekt",
+      "journalDate": "2026-08-21T11:09:18",
+      "sagsnr": "EMN-2026-000073",
+      "ansvarligEnhed": "MBA-Byråd og Jura/Byrådsservice og Jura"
+    }
+  },
+  "id:382038": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Borgerhenvendelse vedr. støj fra multibane - 2",
+      "journalDate": "2026-08-21T10:59:49",
+      "sagsnr": "EMN-2026-009293",
+      "ansvarligEnhed": "MBA-Sekretariat, Erhverv og Organisation/Sekretariat, Projekt og Analyse/Sekretariat BA"
+    }
+  },
+  "id:382037": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Borgerhenvendelse vedr. dyr ved Kasted mose",
+      "journalDate": "2026-08-21T10:57:13",
+      "sagsnr": "EMN-2026-009293",
+      "ansvarligEnhed": "MBA-Sekretariat, Erhverv og Organisation/Sekretariat, Projekt og Analyse/Sekretariat BA"
+    }
+  },
+  "id:382036": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Århus Kommune besøg i Hal 11 d. 1. september. Et fælles showroom i Åbyhøj for en række SMV producenter der leverer mindre klimaskadelige produkter til byggebranchen",
+      "journalDate": "2026-08-21T10:16:24",
+      "sagsnr": "EMN-2026-009244",
+      "ansvarligEnhed": "MBA-Sekretariat, Erhverv og Organisation/Erhverv og Bæredygtig Udvikling"
+    }
+  },
+  "id:382035": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Meningstilkendegivelse til Aarhus Byråd: Åbent brev angående Letbanen",
+      "journalDate": "2026-08-21T10:07:42",
+      "sagsnr": "EMN-2026-000073",
+      "ansvarligEnhed": "MBA-Byråd og Jura/Byrådsservice og Jura"
+    }
+  },
+  "id:382034": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Meningstilkendegivelse til Aarhus Byråd: Oplæg om Ny Hal i Nordbyen",
+      "journalDate": "2026-08-21T10:05:02",
+      "sagsnr": "EMN-2026-000073",
+      "ansvarligEnhed": "MBA-Byråd og Jura/Byrådsservice og Jura"
+    }
+  },
+  "id:382031": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Hvilstedvej 16. Din deklaration for PCB - deponeringsegnet er godkendt.",
+      "journalDate": "2026-08-21T12:20:42",
+      "sagsnr": "GEO-2024-112158",
+      "ansvarligEnhed": "MTM-By og Natur/Klima og Energi/Cirkulære Ressourcer"
+    }
+  },
+  "id:382030": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Hvilstedvej 16. Din deklaration for PCB - deponeringsegnet er godkendt.",
+      "journalDate": "2026-08-21T12:19:16",
+      "sagsnr": "GEO-2024-112158",
+      "ansvarligEnhed": "MTM-By og Natur/Klima og Energi/Cirkulære Ressourcer"
+    }
+  },
+  "id:382029": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Hvilstedvej 16. Din deklaration for Eternit, herunder asbestholdigt affald er godkendt.",
+      "journalDate": "2026-08-21T12:18:23",
+      "sagsnr": "GEO-2024-112158",
+      "ansvarligEnhed": "MTM-By og Natur/Klima og Energi/Cirkulære Ressourcer"
+    }
+  },
+  "id:382028": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "ESDH: byggeaffald-sag: [42725] Hvilstedvej 16 8355 Solbjerg, 9e Hvilsted By, Hvilsted Mail 1 af 1",
+      "journalDate": "2026-08-21T12:16:49",
+      "sagsnr": "GEO-2024-112158",
+      "ansvarligEnhed": "MTM-By og Natur/Klima og Energi/Cirkulære Ressourcer"
+    }
+  },
+  "id:382039": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Spørgsmål - Status",
+      "journalDate": "2026-08-21T11:01:33",
+      "sagsnr": "GEO-2026-004477",
+      "ansvarligEnhed": "MTM-By og Natur/Plan/VVM og Landskab"
+    }
+  },
+  "id:382027": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Invitation til Aarhus Byråd: Hvad har unge brug for fra fremtidens kommune?",
+      "journalDate": "2026-08-20T15:31:27",
+      "sagsnr": "EMN-2026-000073",
+      "ansvarligEnhed": "MBA-Byråd og Jura/Byrådsservice og Jura"
+    }
+  },
+  "id:382018": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Besøg hos prismodtager Niels Aage Kjær // Marselistunnelen // Nyt event: Fra de store visioner til hverdagen i byen // Mød ledelsen i Aarhus Airport // Expat Receptions 15-års jubilæum",
+      "journalDate": "2026-08-20T13:06:39",
+      "sagsnr": "EMN-2026-000070",
+      "ansvarligEnhed": "MBA-Sekretariat, Erhverv og Organisation/Sekretariat, Projekt og Analyse/Sekretariat BA"
+    }
+  },
+  "id:382017": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Borgerhenvendelse vedr. parkering ved Åbyhøj stadion",
+      "journalDate": "2026-08-20T09:46:12",
+      "sagsnr": "EMN-2026-009293",
+      "ansvarligEnhed": "MBA-Sekretariat, Erhverv og Organisation/Sekretariat, Projekt og Analyse/Sekretariat BA"
+    }
+  },
+  "id:382016": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Aktindsigt: AI-understøttede klager og borgerhenvendelser",
+      "journalDate": "2026-08-20T07:51:54",
+      "sagsnr": "AKT-2026-001411",
+      "ansvarligEnhed": "MBA-Sekretariat, Erhverv og Organisation/Kommunikation og Fælles Platforme"
+    }
+  },
+  "id:382015": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Aktindsigt i fondsmidler modtaget i 2025",
+      "journalDate": "2026-08-20T07:46:33",
+      "sagsnr": "AKT-2026-001410",
+      "ansvarligEnhed": "MBA-Sekretariat, Erhverv og Organisation/Kommunikation og Fælles Platforme"
+    }
+  },
+  "id:382014": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Aktindsigt, Frihedsbrevet: Udgifter til medietræning af politikere",
+      "journalDate": "2026-08-20T07:40:28",
+      "sagsnr": "AKT-2026-001409",
+      "ansvarligEnhed": "MBA-Sekretariat, Erhverv og Organisation/Kommunikation og Fælles Platforme"
+    }
+  },
+  "id:382025": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Materiale fra bygherre inklusiv parkeringskælder",
+      "journalDate": "2026-08-20T12:39:18",
+      "sagsnr": "GEO-2024-208139",
+      "ansvarligEnhed": "MTM-By og Natur/Plan/Lokalplan 2"
+    }
+  },
+  "id:382026": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "SV: LP X258 Brandstation Øst - lokalplansagen lukkes.",
+      "journalDate": "2026-08-20T12:38:43",
+      "sagsnr": "GEO-2025-004149",
+      "ansvarligEnhed": "MTM-By og Natur/Plan og Byggeri/Plan og VVM"
+    }
+  },
+  "id:382024": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "SV: LPX267: OML-beregning til kommentering/godkendelse - Godkendt!",
+      "journalDate": "2026-08-20T12:08:17",
+      "sagsnr": "GEO-2025-003164",
+      "ansvarligEnhed": "MTM-By og Natur/Plan og Byggeri/Plan og VVM"
+    }
+  },
+  "id:382023": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "VS: Opfølgende spørgsmål om BBR vedr. matr. 64a - mejerigrunden Lisbjerg (ifm. Lokalplan X199)",
+      "journalDate": "2026-08-20T10:40:45",
+      "sagsnr": "GEO-2023-006436",
+      "ansvarligEnhed": "MTM-By og Natur/Plan og Byggeri/Plan og VVM"
+    }
+  },
+  "id:382009": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Borgerhenvendelse vedr. Gallo skolen",
+      "journalDate": "2026-08-19T11:47:35",
+      "sagsnr": "EMN-2026-009293",
+      "ansvarligEnhed": "MBA-Sekretariat, Erhverv og Organisation/Sekretariat, Projekt og Analyse/Sekretariat BA"
+    }
+  },
+  "id:382020": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Svar fra rådgiver vedr. status",
+      "journalDate": "2026-08-19T14:55:06",
+      "sagsnr": "GEO-2021-010202",
+      "ansvarligEnhed": "MTM-Forvaltningschef/Plan/Lokalplanlægning og VVM"
+    }
+  },
+  "id:382019": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Bekræft fra bygherre om igangsætning af servitutredegørelsen",
+      "journalDate": "2026-08-19T14:45:51",
+      "sagsnr": "GEO-2025-008318",
+      "ansvarligEnhed": "MTM-By og Natur/Plan og Byggeri/Planprocesser"
+    }
+  },
+  "id:381991": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Kumulative effekter - kontaktoplysninger",
+      "journalDate": "2026-08-19T12:47:10",
+      "sagsnr": "GEO-2025-004646",
+      "ansvarligEnhed": "MTM-By og Natur/Plan og Byggeri/Plan og VVM"
+    }
+  },
+  "id:381990": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Møde om overfladevand, 19. august 2026",
+      "journalDate": "2026-08-19T12:46:28",
+      "sagsnr": "GEO-2025-004646",
+      "ansvarligEnhed": "MTM-By og Natur/Plan og Byggeri/Plan og VVM"
+    }
+  },
+  "id:381894": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Invitation til Aarhus Byråd til udstillingsåbning på Godsbanen",
+      "journalDate": "2026-08-18T09:09:14",
+      "sagsnr": "EMN-2026-000073",
+      "ansvarligEnhed": "MBA-Byråd og Jura/Byrådsservice og Jura"
+    }
+  },
+  "id:381893": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "KL-Invitation til møde vedr. den fælleskommunale budgetkoordinering for økonomiudvalgsmedlemmer torsdag den 10. september 2026",
+      "journalDate": "2026-08-18T09:08:39",
+      "sagsnr": "EMN-2026-000073",
+      "ansvarligEnhed": "MBA-Byråd og Jura/Byrådsservice og Jura"
+    }
+  },
+  "id:381982": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Korrespondance med nabo vedr. artikel om nedrivning",
+      "journalDate": "2026-08-18T15:11:35",
+      "sagsnr": "GEO-2026-002904",
+      "ansvarligEnhed": "MTM-By og Natur/Plan/Lokalplan 1"
+    }
+  },
+  "id:381981": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Vedr. busten af Putin",
+      "journalDate": "2026-08-18T14:03:51",
+      "sagsnr": "EMN-2026-009348",
+      "ansvarligEnhed": "MTM-Fælles Stabe/Rådmandssekretariatet"
+    }
+  },
+  "id:381980": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Henvendelse vedrørende motorvejshotel",
+      "journalDate": "2026-08-18T13:57:53",
+      "sagsnr": "EMN-2026-009347",
+      "ansvarligEnhed": "MTM-Fælles Stabe/Rådmandssekretariatet"
+    }
+  },
+  "id:381979": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Bevoksning ud for Nicolinehus",
+      "journalDate": "2026-08-18T13:48:03",
+      "sagsnr": "EMN-2026-009345",
+      "ansvarligEnhed": "MTM-Fælles Stabe/Rådmandssekretariatet"
+    }
+  },
+  "id:381978": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Kystsikring mellem Aarhus lysbådehavn og Studstrup",
+      "journalDate": "2026-08-18T13:31:19",
+      "sagsnr": "EMN-2026-009342",
+      "ansvarligEnhed": "MTM-Fælles Stabe/Rådmandssekretariatet"
+    }
+  },
+  "id:381977": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Dialog, Østjyllands Brandvæsen",
+      "journalDate": "2026-08-18T13:22:25",
+      "sagsnr": "GEO-2025-004646",
+      "ansvarligEnhed": "MTM-By og Natur/Plan og Byggeri/Plan og VVM"
+    }
+  },
+  "id:381976": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Signal ved krydset Herredsvej/Paludan Mullersvej",
+      "journalDate": "2026-08-18T12:17:04",
+      "sagsnr": "GEO-2016-027516",
+      "ansvarligEnhed": "MTM-Vicedirektør/Byrum/Trafik og Vejdrift"
+    }
+  },
+  "id:381975": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Krydset Øllegårdsvej/Skanderborgvej",
+      "journalDate": "2026-08-18T11:36:01",
+      "sagsnr": "GEO-2018-045890",
+      "ansvarligEnhed": "MTM-Vicedirektør/Byrum/Trafik og Vejdrift"
+    }
+  },
+  "id:381974": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Tilbagemelding fra SK vedr. Sø - Visualiseringspunkter",
+      "journalDate": "2026-08-18T11:24:10",
+      "sagsnr": "GEO-2024-000603",
+      "ansvarligEnhed": "MTM-Forvaltningschef/Plan og Byggeri/Lokalplanlægning og VVM"
+    }
+  },
+  "id:381973": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Fra rådgiver - Opfølgning på vvm-ansøgning",
+      "journalDate": "2026-08-18T11:19:04",
+      "sagsnr": "GEO-2026-004346",
+      "ansvarligEnhed": "MTM-By og Natur/Plan/VVM og Landskab"
+    }
+  },
+  "id:381972": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "aben har vi fået - pendlere, der tager vores parkering",
+      "journalDate": "2026-08-18T11:05:08",
+      "sagsnr": "EMN-2026-009327",
+      "ansvarligEnhed": "MTM-Fælles Stabe/Rådmandssekretariatet"
+    }
+  },
+  "id:381971": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Mønsgade",
+      "journalDate": "2026-08-18T10:49:19",
+      "sagsnr": "EMN-2026-009324",
+      "ansvarligEnhed": "MTM-Fælles Stabe/Rådmandssekretariatet"
+    }
+  },
+  "id:381970": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Cyklister",
+      "journalDate": "2026-08-18T10:42:14",
+      "sagsnr": "EMN-2026-009321",
+      "ansvarligEnhed": "MTM-Fælles Stabe/Rådmandssekretariatet"
+    }
+  },
+  "id:381969": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Det Grønlandske Hus' udvendige vedligehold",
+      "journalDate": "2026-08-18T10:36:14",
+      "sagsnr": "EMN-2026-009317",
+      "ansvarligEnhed": "MTM-Fælles Stabe/Rådmandssekretariatet"
+    }
+  },
+  "id:381968": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Christian X's vej/Holme Møllevej/Enghavevej",
+      "journalDate": "2026-08-18T10:25:04",
+      "sagsnr": "GEO-2026-002415",
+      "ansvarligEnhed": "MTM-By og Natur/Byrum/Trafik og Vejdrift/Trafik"
+    }
+  },
+  "id:381892": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Approbation 1969. Dokumentation for at afvanding er afstemt med Aarhus Vand",
+      "journalDate": "2026-08-18T07:32:14",
+      "sagsnr": "GEO-2026-002926",
+      "ansvarligEnhed": "MTM-By og Natur/Byrum/Byggemodning og Bydesign"
+    }
+  },
+  "id:381837": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Aarhus Kommunes sparekatalog",
+      "journalDate": "2026-08-17T11:08:45",
+      "sagsnr": "EMN-2026-000070",
+      "ansvarligEnhed": "MBA-Sekretariat, Erhverv og Organisation/Sekretariat, Projekt og Analyse/Sekretariat BA"
+    }
+  },
+  "id:381948": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "DGI - status",
+      "journalDate": "2026-08-17T14:13:07",
+      "sagsnr": "GEO-2026-001092",
+      "ansvarligEnhed": "MTM-By og Natur/Plan og Byggeri/Plan og VVM"
+    }
+  },
+  "id:381947": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Spørgsmål fra ansøger - Status",
+      "journalDate": "2026-08-17T14:11:17",
+      "sagsnr": "GEO-2026-003762",
+      "ansvarligEnhed": "MTM-By og Natur/Plan/VVM og Landskab"
+    }
+  },
+  "id:381946": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Bemærkninger til lokalplanudkast fra rådgiver og reviderede kortbilag",
+      "journalDate": "2026-08-17T13:48:56",
+      "sagsnr": "GEO-2024-000425",
+      "ansvarligEnhed": "MTM-By og Natur/Plan og Byggeri/Plan og VVM"
+    }
+  },
+  "id:381945": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Hasselager og Planklagenævnsafgørelse",
+      "journalDate": "2026-08-17T10:37:58",
+      "sagsnr": "GEO-2023-003262",
+      "ansvarligEnhed": "MTM-Forvaltningschef/Plan og Byggeri/Lokalplanlægning og VVM"
+    }
+  },
+  "id:381944": {
+    "first_seen": "2026-08-25T09:27:53.260839+02:00",
+    "last_seen": "2026-08-25T09:27:53.260839+02:00",
+    "fingerprint": {
+      "dokumenttitel": "Mail fra projektudvikler med supplerende flagermusnotat",
+      "journalDate": "2026-08-17T09:17:03",
+      "sagsnr": "GEO-2021-038341",
+      "ansvarligEnhed": "MTM-Forvaltningschef/Plan/Lokalplanlægning og VVM"
+    }
+  }
+}
