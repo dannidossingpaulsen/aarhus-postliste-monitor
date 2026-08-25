@@ -613,7 +613,8 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-08-18"
+    "_queried_date": "2026-08-18",
+    "_status": "new"
   },
   {
     "id": 381837,
@@ -627,7 +628,8 @@
     "dokumenttype": "Indgående",
     "_department": "MBA-",
     "_department_name": "Borgmesterens Afdeling",
-    "_queried_date": "2026-08-17"
+    "_queried_date": "2026-08-17",
+    "_status": "new"
   },
   {
     "id": 381948,
@@ -641,7 +643,8 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-08-17"
+    "_queried_date": "2026-08-17",
+    "_status": "new"
   },
   {
     "id": 381947,
@@ -655,7 +658,8 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-08-17"
+    "_queried_date": "2026-08-17",
+    "_status": "new"
   },
   {
     "id": 381946,
@@ -669,7 +673,8 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-08-17"
+    "_queried_date": "2026-08-17",
+    "_status": "new"
   },
   {
     "id": 381945,
@@ -683,7 +688,8 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-08-17"
+    "_queried_date": "2026-08-17",
+    "_status": "new"
   },
   {
     "id": 381944,
@@ -697,6 +703,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-08-17"
+    "_queried_date": "2026-08-17",
+    "_status": "new"
   }
 ]

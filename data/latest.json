@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T09:55:16.403295+02:00",
+  "generated_at": "2026-08-25T09:58:53.877714+02:00",
   "timezone": "Europe/Copenhagen",
   "window_days": 10,
   "window_start": "2026-08-16",
@@ -8,12 +8,12 @@
     "MBA-": {
       "name": "Borgmesterens Afdeling",
       "fetched_unique_posts_in_window": 16,
-      "new_or_changed_posts": 0
+      "new_or_changed_posts": 1
     },
     "MTM-": {
       "name": "Teknik og Miljø",
       "fetched_unique_posts_in_window": 34,
-      "new_or_changed_posts": 0
+      "new_or_changed_posts": 6
     }
   },
   "checked_dates": [
@@ -138,7 +138,113 @@
       "count": 0
     }
   ],
-  "new_or_changed": [],
+  "new_or_changed": [
+    {
+      "id": 381892,
+      "dokumentidentifikation": "GEO-2026-002926/29",
+      "dokumenttitel": "Approbation 1969. Dokumentation for at afvanding er afstemt med Aarhus Vand",
+      "dokumentnr": "16209013",
+      "brevdato": "2026-08-17T00:00:00",
+      "journalDate": "2026-08-18T07:32:14",
+      "sagsnr": "GEO-2026-002926",
+      "ansvarligEnhed": "MTM-By og Natur/Byrum/Byggemodning og Bydesign",
+      "dokumenttype": "Indgående",
+      "_department": "MTM-",
+      "_department_name": "Teknik og Miljø",
+      "_queried_date": "2026-08-18",
+      "_status": "new"
+    },
+    {
+      "id": 381948,
+      "dokumentidentifikation": "GEO-2026-001092/36",
+      "dokumenttitel": "DGI - status",
+      "dokumentnr": "16208217",
+      "brevdato": "2026-08-11T07:32:34",
+      "journalDate": "2026-08-17T14:13:07",
+      "sagsnr": "GEO-2026-001092",
+      "ansvarligEnhed": "MTM-By og Natur/Plan og Byggeri/Plan og VVM",
+      "dokumenttype": "Indgående",
+      "_department": "MTM-",
+      "_department_name": "Teknik og Miljø",
+      "_queried_date": "2026-08-17",
+      "_status": "new"
+    },
+    {
+      "id": 381947,
+      "dokumentidentifikation": "GEO-2026-003762/9",
+      "dokumenttitel": "Spørgsmål fra ansøger - Status",
+      "dokumentnr": "16208181",
+      "brevdato": "2026-08-17T00:00:00",
+      "journalDate": "2026-08-17T14:11:17",
+      "sagsnr": "GEO-2026-003762",
+      "ansvarligEnhed": "MTM-By og Natur/Plan/VVM og Landskab",
+      "dokumenttype": "Indgående",
+      "_department": "MTM-",
+      "_department_name": "Teknik og Miljø",
+      "_queried_date": "2026-08-17",
+      "_status": "new"
+    },
+    {
+      "id": 381946,
+      "dokumentidentifikation": "GEO-2024-000425/54",
+      "dokumenttitel": "Bemærkninger til lokalplanudkast fra rådgiver og reviderede kortbilag",
+      "dokumentnr": "16207926",
+      "brevdato": "2026-08-14T00:00:00",
+      "journalDate": "2026-08-17T13:48:56",
+      "sagsnr": "GEO-2024-000425",
+      "ansvarligEnhed": "MTM-By og Natur/Plan og Byggeri/Plan og VVM",
+      "dokumenttype": "Indgående",
+      "_department": "MTM-",
+      "_department_name": "Teknik og Miljø",
+      "_queried_date": "2026-08-17",
+      "_status": "new"
+    },
+    {
+      "id": 381837,
+      "dokumentidentifikation": "EMN-2026-000070/37",
+      "dokumenttitel": "Aarhus Kommunes sparekatalog",
+      "dokumentnr": "16206659",
+      "brevdato": "2026-08-15T00:00:00",
+      "journalDate": "2026-08-17T11:08:45",
+      "sagsnr": "EMN-2026-000070",
+      "ansvarligEnhed": "MBA-Sekretariat, Erhverv og Organisation/Sekretariat, Projekt og Analyse/Sekretariat BA",
+      "dokumenttype": "Indgående",
+      "_department": "MBA-",
+      "_department_name": "Borgmesterens Afdeling",
+      "_queried_date": "2026-08-17",
+      "_status": "new"
+    },
+    {
+      "id": 381945,
+      "dokumentidentifikation": "GEO-2023-003262/91",
+      "dokumenttitel": "Hasselager og Planklagenævnsafgørelse",
+      "dokumentnr": "16206436",
+      "brevdato": "2026-08-17T00:00:00",
+      "journalDate": "2026-08-17T10:37:58",
+      "sagsnr": "GEO-2023-003262",
+      "ansvarligEnhed": "MTM-Forvaltningschef/Plan og Byggeri/Lokalplanlægning og VVM",
+      "dokumenttype": "Indgående",
+      "_department": "MTM-",
+      "_department_name": "Teknik og Miljø",
+      "_queried_date": "2026-08-17",
+      "_status": "new"
+    },
+    {
+      "id": 381944,
+      "dokumentidentifikation": "GEO-2021-038341/8",
+      "dokumenttitel": "Mail fra projektudvikler med supplerende flagermusnotat",
+      "dokumentnr": "16205738",
+      "brevdato": "2026-08-11T00:00:00",
+      "journalDate": "2026-08-17T09:17:03",
+      "sagsnr": "GEO-2021-038341",
+      "ansvarligEnhed": "MTM-Forvaltningschef/Plan/Lokalplanlægning og VVM",
+      "dokumenttype": "Indgående",
+      "_department": "MTM-",
+      "_department_name": "Teknik og Miljø",
+      "_queried_date": "2026-08-17",
+      "_status": "new"
+    }
+  ],
   "errors": [],
   "technical_status": "ok"
 }
