@@ -1,25 +1,37 @@
 {
-  "generated_at": "2026-09-02T12:25:46.961410+02:00",
+  "generated_at": "2026-09-03T12:33:18.984981+02:00",
   "timezone": "Europe/Copenhagen",
   "window_days": 10,
-  "window_start": "2026-08-24",
-  "window_end": "2026-09-02",
+  "window_start": "2026-08-25",
+  "window_end": "2026-09-03",
   "departments": {
     "MBA-": {
       "name": "Borgmesterens Afdeling",
-      "fetched_unique_posts_in_window": 25,
+      "fetched_unique_posts_in_window": 22,
       "new_or_changed_posts": 0
     },
     "MTM-": {
       "name": "Teknik og Miljø",
-      "fetched_unique_posts_in_window": 92,
-      "new_or_changed_posts": 0
+      "fetched_unique_posts_in_window": 59,
+      "new_or_changed_posts": 7
     }
   },
   "checked_dates": [
     {
       "department": "MBA-",
       "department_name": "Borgmesterens Afdeling",
+      "date": "2026-09-03",
+      "count": 0
+    },
+    {
+      "department": "MTM-",
+      "department_name": "Teknik og Miljø",
+      "date": "2026-09-03",
+      "count": 0
+    },
+    {
+      "department": "MBA-",
+      "department_name": "Borgmesterens Afdeling",
       "date": "2026-09-02",
       "count": 0
     },
@@ -39,19 +51,19 @@
       "department": "MTM-",
       "department_name": "Teknik og Miljø",
       "date": "2026-09-01",
-      "count": 0
-    },
-    {
-      "department": "MBA-",
-      "department_name": "Borgmesterens Afdeling",
-      "date": "2026-08-31",
-      "count": 0
-    },
-    {
-      "department": "MTM-",
-      "department_name": "Teknik og Miljø",
-      "date": "2026-08-31",
       "count": 1
+    },
+    {
+      "department": "MBA-",
+      "department_name": "Borgmesterens Afdeling",
+      "date": "2026-08-31",
+      "count": 0
+    },
+    {
+      "department": "MTM-",
+      "department_name": "Teknik og Miljø",
+      "date": "2026-08-31",
+      "count": 2
     },
     {
       "department": "MBA-",
@@ -87,7 +99,7 @@
       "department": "MTM-",
       "department_name": "Teknik og Miljø",
       "date": "2026-08-28",
-      "count": 13
+      "count": 14
     },
     {
       "department": "MBA-",
@@ -111,7 +123,7 @@
       "department": "MTM-",
       "department_name": "Teknik og Miljø",
       "date": "2026-08-26",
-      "count": 9
+      "count": 11
     },
     {
       "department": "MBA-",
@@ -123,22 +135,116 @@
       "department": "MTM-",
       "department_name": "Teknik og Miljø",
       "date": "2026-08-25",
-      "count": 16
-    },
-    {
-      "department": "MBA-",
-      "department_name": "Borgmesterens Afdeling",
-      "date": "2026-08-24",
-      "count": 3
-    },
-    {
-      "department": "MTM-",
-      "department_name": "Teknik og Miljø",
-      "date": "2026-08-24",
-      "count": 40
+      "count": 18
     }
   ],
-  "new_or_changed": [],
+  "new_or_changed": [
+    {
+      "id": 382953,
+      "dokumentidentifikation": "GEO-2026-006235/2",
+      "dokumenttitel": "Støv og støj fra byggeri udenfor tilladte tidsrum",
+      "dokumentnr": "16224065",
+      "brevdato": "2026-08-19T00:00:00",
+      "journalDate": "2026-09-01T10:03:25",
+      "sagsnr": "GEO-2026-006235",
+      "ansvarligEnhed": "MTM-By og Natur/Klima og Energi/Virksomheder",
+      "dokumenttype": "Indgående",
+      "_department": "MTM-",
+      "_department_name": "Teknik og Miljø",
+      "_queried_date": "2026-09-01",
+      "_status": "new"
+    },
+    {
+      "id": 382952,
+      "dokumentidentifikation": "GEO-2023-003066/30",
+      "dokumenttitel": "Dialog med rådgiver, anmeldelse af jordflytninger, Søren Nymarks Vej 17",
+      "dokumentnr": "16254243",
+      "brevdato": "2026-08-31T00:00:00",
+      "journalDate": "2026-08-31T10:09:01",
+      "sagsnr": "GEO-2023-003066",
+      "ansvarligEnhed": "MTM-Forvaltningschef/Natur og Miljø/Jord og Grundvand",
+      "dokumenttype": "Indgående",
+      "_department": "MTM-",
+      "_department_name": "Teknik og Miljø",
+      "_queried_date": "2026-08-31",
+      "_status": "new"
+    },
+    {
+      "id": 382945,
+      "dokumentidentifikation": "GEO-2026-002677/36",
+      "dokumenttitel": "Afklaring omkring Bakke Allé 3 - jordflytninger fra parkeringsareal",
+      "dokumentnr": "16251448",
+      "brevdato": "2026-08-28T00:00:00",
+      "journalDate": "2026-08-28T12:51:45",
+      "sagsnr": "GEO-2026-002677",
+      "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Jord og Grundvand",
+      "dokumenttype": "Indgående",
+      "_department": "MTM-",
+      "_department_name": "Teknik og Miljø",
+      "_queried_date": "2026-08-28",
+      "_status": "new"
+    },
+    {
+      "id": 382942,
+      "dokumentidentifikation": "GEO-2026-006064/8",
+      "dokumenttitel": "Supplerende oplysninger om prøvetagning - Bakkegårdsvej 33, Risskov",
+      "dokumentnr": "16240292",
+      "brevdato": "2026-08-26T00:00:00",
+      "journalDate": "2026-08-26T09:39:09",
+      "sagsnr": "GEO-2026-006064",
+      "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Jord og Grundvand",
+      "dokumenttype": "Indgående",
+      "_department": "MTM-",
+      "_department_name": "Teknik og Miljø",
+      "_queried_date": "2026-08-26",
+      "_status": "new"
+    },
+    {
+      "id": 382941,
+      "dokumentidentifikation": "GEO-2026-006064/6",
+      "dokumenttitel": "Jordflytning fra Bakkegårdsvej 33 - analyse af modtaget jord",
+      "dokumentnr": "16239787",
+      "brevdato": "2026-08-25T00:00:00",
+      "journalDate": "2026-08-26T08:51:39",
+      "sagsnr": "GEO-2026-006064",
+      "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Jord og Grundvand",
+      "dokumenttype": "Indgående",
+      "_department": "MTM-",
+      "_department_name": "Teknik og Miljø",
+      "_queried_date": "2026-08-26",
+      "_status": "new"
+    },
+    {
+      "id": 382940,
+      "dokumentidentifikation": "GEO-2026-006064/3",
+      "dokumenttitel": "Supplerende oplysninger - Bakkegårdsvej 33, Risskov - spørgsmål til miljønotat",
+      "dokumentnr": "16238757",
+      "brevdato": "2026-08-25T00:00:00",
+      "journalDate": "2026-08-25T14:49:30",
+      "sagsnr": "GEO-2026-006064",
+      "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Jord og Grundvand",
+      "dokumenttype": "Indgående",
+      "_department": "MTM-",
+      "_department_name": "Teknik og Miljø",
+      "_queried_date": "2026-08-25",
+      "_status": "new"
+    },
+    {
+      "id": 382939,
+      "dokumentidentifikation": "GEO-2013-033958/22",
+      "dokumenttitel": "Åbovej 8 - gravearbejde ved kortlagt areal - afklaring",
+      "dokumentnr": "16237142",
+      "brevdato": "2026-08-25T00:00:00",
+      "journalDate": "2026-08-25T11:44:54",
+      "sagsnr": "GEO-2013-033958",
+      "ansvarligEnhed": "MTM-Forvaltningschef/Natur og Miljø/Jord og Grundvand",
+      "dokumenttype": "Indgående",
+      "_department": "MTM-",
+      "_department_name": "Teknik og Miljø",
+      "_queried_date": "2026-08-25",
+      "_status": "new"
+    }
+  ],
   "errors": [],
   "technical_status": "ok"
 }
