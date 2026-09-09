@@ -1,5 +1,80 @@
 [
   {
+    "id": 383492,
+    "dokumentidentifikation": "GEO-2026-005967/30",
+    "dokumenttitel": "Tilbagemelding vedr. observering - jord med asbest - Trige Møllevej 134",
+    "dokumentnr": "16283828",
+    "brevdato": "2026-09-07T00:00:00",
+    "journalDate": "2026-09-08T08:42:09",
+    "sagsnr": "GEO-2026-005967",
+    "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Jord og Grundvand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-08",
+    "_status": "new"
+  },
+  {
+    "id": 383491,
+    "dokumentidentifikation": "GEO-2026-005967/28",
+    "dokumenttitel": "Trige Møllevej 34, 8380 Trige, svar på spørgsmål til dokumentationsprøver ifm. asbest i jord",
+    "dokumentnr": "16283815",
+    "brevdato": "2026-09-04T00:00:00",
+    "journalDate": "2026-09-08T08:39:42",
+    "sagsnr": "GEO-2026-005967",
+    "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Jord og Grundvand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-08",
+    "_status": "new"
+  },
+  {
+    "id": 383490,
+    "dokumentidentifikation": "GEO-2026-006002/7",
+    "dokumenttitel": "Re: Serinehøjen 3, 8340 Malling - Flytning af lygtepæl",
+    "dokumentnr": "16283751",
+    "brevdato": "2026-09-07T00:00:00",
+    "journalDate": "2026-09-08T08:30:19",
+    "sagsnr": "GEO-2026-006002",
+    "ansvarligEnhed": "MTM-By og Natur/Byrum/Trafik og Vejdrift/Trafik",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-08",
+    "_status": "new"
+  },
+  {
+    "id": 383489,
+    "dokumentidentifikation": "GEO-2026-006002/6",
+    "dokumenttitel": "Serinehøjen 3, 8340 Malling - Flytning af lygtepæl",
+    "dokumentnr": "16283750",
+    "brevdato": "2026-09-07T00:00:00",
+    "journalDate": "2026-09-08T08:30:15",
+    "sagsnr": "GEO-2026-006002",
+    "ansvarligEnhed": "MTM-By og Natur/Byrum/Trafik og Vejdrift/Trafik",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-08",
+    "_status": "new"
+  },
+  {
+    "id": 383488,
+    "dokumentidentifikation": "GEO-2026-006002/4",
+    "dokumenttitel": "Serinehøjen 3, 8340 Malling - Flytning af lygtepæl",
+    "dokumentnr": "16283738",
+    "brevdato": "2026-09-04T00:00:00",
+    "journalDate": "2026-09-08T08:28:38",
+    "sagsnr": "GEO-2026-006002",
+    "ansvarligEnhed": "MTM-By og Natur/Byrum/Trafik og Vejdrift/Trafik",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-08",
+    "_status": "new"
+  },
+  {
     "id": 383292,
     "dokumentidentifikation": "AKT-2026-001577/1",
     "dokumenttitel": "Aktindsigt vedr. AI kurser",
@@ -11,8 +86,7 @@
     "dokumenttype": "Indgående",
     "_department": "MBA-",
     "_department_name": "Borgmesterens Afdeling",
-    "_queried_date": "2026-09-07",
-    "_status": "new"
+    "_queried_date": "2026-09-07"
   },
   {
     "id": 383291,
@@ -26,6 +100,80 @@
     "dokumenttype": "Indgående",
     "_department": "MBA-",
     "_department_name": "Borgmesterens Afdeling",
+    "_queried_date": "2026-09-07"
+  },
+  {
+    "id": 383466,
+    "dokumentidentifikation": "GEO-2013-035253/110",
+    "dokumenttitel": "Fra rådgiver, supplerende jordhåndteringsplan, fase 2, transformerstation, Ryhavevej 50B",
+    "dokumentnr": "16282969",
+    "brevdato": "2026-09-07T00:00:00",
+    "journalDate": "2026-09-07T15:19:20",
+    "sagsnr": "GEO-2013-035253",
+    "ansvarligEnhed": "MTM-Forvaltningschef/Natur og Miljø/Jord og Grundvand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-07",
+    "_status": "new"
+  },
+  {
+    "id": 383465,
+    "dokumentidentifikation": "GEO-2026-006474/5",
+    "dokumenttitel": "Fra regionen, orientering om lokalisering, Tåstumvænget 34, 8381 Tilst",
+    "dokumentnr": "16282694",
+    "brevdato": "2026-09-03T00:00:00",
+    "journalDate": "2026-09-07T14:41:47",
+    "sagsnr": "GEO-2026-006474",
+    "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Jord og Grundvand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-07",
+    "_status": "new"
+  },
+  {
+    "id": 383464,
+    "dokumentidentifikation": "GEO-2026-006474/1",
+    "dokumenttitel": "Fra rådgiver, anmeldelse af forurening ved villaolietank, Tåstumvænget 34, Tilst",
+    "dokumentnr": "16282679",
+    "brevdato": "2026-09-02T00:00:00",
+    "journalDate": "2026-09-07T14:40:41",
+    "sagsnr": "GEO-2026-006474",
+    "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Jord og Grundvand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-07",
+    "_status": "new"
+  },
+  {
+    "id": 383463,
+    "dokumentidentifikation": "GEO-2013-034501/76",
+    "dokumenttitel": "Fra rådgiver, revideret § 8-ansøgning, ændring af arealanvendelse, parkeringsplads, Hovedgaden 1",
+    "dokumentnr": "16281798",
+    "brevdato": "2026-09-07T00:00:00",
+    "journalDate": "2026-09-07T13:35:07",
+    "sagsnr": "GEO-2013-034501",
+    "ansvarligEnhed": "MTM-Forvaltningschef/Natur og Miljø/Jord og Grundvand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-07",
+    "_status": "new"
+  },
+  {
+    "id": 383462,
+    "dokumentidentifikation": "GEO-2025-007875/49",
+    "dokumenttitel": "Forespørgsel om håndtering af overskudsjord - Ny Tranbjerggårdsvej 20",
+    "dokumentnr": "16280902",
+    "brevdato": "2026-09-04T00:00:00",
+    "journalDate": "2026-09-07T12:10:24",
+    "sagsnr": "GEO-2025-007875",
+    "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Jord og Grundvand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
     "_queried_date": "2026-09-07",
     "_status": "new"
   },
@@ -41,8 +189,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-07",
-    "_status": "new"
+    "_queried_date": "2026-09-07"
   },
   {
     "id": 383298,
@@ -56,8 +203,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-07",
-    "_status": "new"
+    "_queried_date": "2026-09-07"
   },
   {
     "id": 383297,
@@ -71,8 +217,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-07",
-    "_status": "new"
+    "_queried_date": "2026-09-07"
   },
   {
     "id": 383296,
@@ -86,8 +231,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-07",
-    "_status": "new"
+    "_queried_date": "2026-09-07"
   },
   {
     "id": 383295,
@@ -101,8 +245,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-07",
-    "_status": "new"
+    "_queried_date": "2026-09-07"
   },
   {
     "id": 383294,
@@ -116,8 +259,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-07",
-    "_status": "new"
+    "_queried_date": "2026-09-07"
   },
   {
     "id": 383293,
@@ -131,8 +273,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-07",
-    "_status": "new"
+    "_queried_date": "2026-09-07"
   },
   {
     "id": 383082,
@@ -160,8 +301,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-04",
-    "_status": "new"
+    "_queried_date": "2026-09-04"
   },
   {
     "id": 383283,
@@ -175,8 +315,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-04",
-    "_status": "new"
+    "_queried_date": "2026-09-04"
   },
   {
     "id": 383282,
@@ -190,8 +329,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-04",
-    "_status": "new"
+    "_queried_date": "2026-09-04"
   },
   {
     "id": 383261,
@@ -205,8 +343,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-04",
-    "_status": "new"
+    "_queried_date": "2026-09-04"
   },
   {
     "id": 383281,
@@ -220,8 +357,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-04",
-    "_status": "new"
+    "_queried_date": "2026-09-04"
   },
   {
     "id": 383280,
@@ -235,8 +371,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-04",
-    "_status": "new"
+    "_queried_date": "2026-09-04"
   },
   {
     "id": 383279,
@@ -250,8 +385,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-04",
-    "_status": "new"
+    "_queried_date": "2026-09-04"
   },
   {
     "id": 383278,
@@ -265,8 +399,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-04",
-    "_status": "new"
+    "_queried_date": "2026-09-04"
   },
   {
     "id": 383277,
@@ -280,8 +413,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-04",
-    "_status": "new"
+    "_queried_date": "2026-09-04"
   },
   {
     "id": 383276,
@@ -295,8 +427,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-04",
-    "_status": "new"
+    "_queried_date": "2026-09-04"
   },
   {
     "id": 383275,
@@ -310,8 +441,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-04",
-    "_status": "new"
+    "_queried_date": "2026-09-04"
   },
   {
     "id": 383274,
@@ -325,8 +455,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-04",
-    "_status": "new"
+    "_queried_date": "2026-09-04"
   },
   {
     "id": 383273,
@@ -340,8 +469,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-04",
-    "_status": "new"
+    "_queried_date": "2026-09-04"
   },
   {
     "id": 383272,
@@ -355,8 +483,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-04",
-    "_status": "new"
+    "_queried_date": "2026-09-04"
   },
   {
     "id": 383271,
@@ -370,8 +497,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-04",
-    "_status": "new"
+    "_queried_date": "2026-09-04"
   },
   {
     "id": 383270,
@@ -385,8 +511,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-04",
-    "_status": "new"
+    "_queried_date": "2026-09-04"
   },
   {
     "id": 383075,
@@ -484,8 +609,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-03",
-    "_status": "new"
+    "_queried_date": "2026-09-03"
   },
   {
     "id": 383259,
@@ -499,8 +623,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-03",
-    "_status": "new"
+    "_queried_date": "2026-09-03"
   },
   {
     "id": 383258,
@@ -514,8 +637,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-03",
-    "_status": "new"
+    "_queried_date": "2026-09-03"
   },
   {
     "id": 383257,
@@ -529,8 +651,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-03",
-    "_status": "new"
+    "_queried_date": "2026-09-03"
   },
   {
     "id": 383256,
@@ -544,8 +665,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-03",
-    "_status": "new"
+    "_queried_date": "2026-09-03"
   },
   {
     "id": 383255,
@@ -559,8 +679,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-03",
-    "_status": "new"
+    "_queried_date": "2026-09-03"
   },
   {
     "id": 383254,
@@ -574,8 +693,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-03",
-    "_status": "new"
+    "_queried_date": "2026-09-03"
   },
   {
     "id": 383253,
@@ -589,8 +707,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-03",
-    "_status": "new"
+    "_queried_date": "2026-09-03"
   },
   {
     "id": 383252,
@@ -604,8 +721,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-03",
-    "_status": "new"
+    "_queried_date": "2026-09-03"
   },
   {
     "id": 383251,
@@ -619,8 +735,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-03",
-    "_status": "new"
+    "_queried_date": "2026-09-03"
   },
   {
     "id": 383028,
@@ -676,8 +791,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-03",
-    "_status": "new"
+    "_queried_date": "2026-09-03"
   },
   {
     "id": 383023,
@@ -747,6 +861,35 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-02"
+  },
+  {
+    "id": 383452,
+    "dokumentidentifikation": "GEO-2026-006233/8",
+    "dokumenttitel": "Græsvang 9 m.fl. - svar fra AAV",
+    "dokumentnr": "16266792",
+    "brevdato": "2026-09-02T00:00:00",
+    "journalDate": "2026-09-02T14:50:22",
+    "sagsnr": "GEO-2026-006233",
+    "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Vand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-02",
+    "_status": "new"
+  },
+  {
+    "id": 383451,
+    "dokumentidentifikation": "GEO-2026-006004/4",
+    "dokumenttitel": "Afskærmning sat op, Koralvej 1",
+    "dokumentnr": "16266575",
+    "brevdato": "2026-08-31T00:00:00",
+    "journalDate": "2026-09-02T14:25:30",
+    "sagsnr": "GEO-2026-006004",
+    "ansvarligEnhed": "MTM-By og Natur/Byrum/Trafik og Vejdrift/Trafik",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
     "_queried_date": "2026-09-02",
     "_status": "new"
   },
@@ -762,8 +905,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-02",
-    "_status": "new"
+    "_queried_date": "2026-09-02"
   },
   {
     "id": 383242,
@@ -777,8 +919,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-02",
-    "_status": "new"
+    "_queried_date": "2026-09-02"
   },
   {
     "id": 383241,
@@ -789,6 +930,20 @@
     "journalDate": "2026-09-02T13:05:43",
     "sagsnr": "GEO-2026-006219",
     "ansvarligEnhed": "MTM-By og Natur/Klima og Energi/Virksomheder",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-02"
+  },
+  {
+    "id": 383450,
+    "dokumentidentifikation": "GEO-2026-006234/3",
+    "dokumenttitel": "Lokalisering af boring, nuværende ejer",
+    "dokumentnr": "16265294",
+    "brevdato": "2026-09-01T00:00:00",
+    "journalDate": "2026-09-02T12:49:04",
+    "sagsnr": "GEO-2026-006234",
+    "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Vand",
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
@@ -808,6 +963,21 @@
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
     "_queried_date": "2026-09-02"
+  },
+  {
+    "id": 383449,
+    "dokumentidentifikation": "GEO-2026-006309/1",
+    "dokumenttitel": "Trygsvej 4, 8230 Åbyhøj - Ansøgning til nedsivning af regnvand - 29-08-2026",
+    "dokumentnr": "16264932",
+    "brevdato": "2026-08-29T00:00:00",
+    "journalDate": "2026-09-02T12:19:25",
+    "sagsnr": "GEO-2026-006309",
+    "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Vand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-02",
+    "_status": "new"
   },
   {
     "id": 383012,
@@ -835,8 +1005,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-02",
-    "_status": "new"
+    "_queried_date": "2026-09-02"
   },
   {
     "id": 383239,
@@ -847,6 +1016,35 @@
     "journalDate": "2026-09-02T12:07:14",
     "sagsnr": "GEO-2025-004646",
     "ansvarligEnhed": "MTM-By og Natur/Plan og Byggeri/Plan og VVM",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-02"
+  },
+  {
+    "id": 383448,
+    "dokumentidentifikation": "GEO-2026-005823/9",
+    "dokumenttitel": "Nedsivning af tag- og overfladevand - Ny blanket modtaget 188316, Engmarksvej",
+    "dokumentnr": "16264809",
+    "brevdato": "2026-08-27T00:00:00",
+    "journalDate": "2026-09-02T12:03:19",
+    "sagsnr": "GEO-2026-005823",
+    "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Vand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-02",
+    "_status": "new"
+  },
+  {
+    "id": 383447,
+    "dokumentidentifikation": "GEO-2026-005606/21",
+    "dokumenttitel": "Nymarksvej 36 - Fra ansøger, ny situationsplan",
+    "dokumentnr": "16264748",
+    "brevdato": "2026-09-02T00:00:00",
+    "journalDate": "2026-09-02T11:56:00",
+    "sagsnr": "GEO-2026-005606",
+    "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Vand",
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
@@ -866,6 +1064,21 @@
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
     "_queried_date": "2026-09-02"
+  },
+  {
+    "id": 383446,
+    "dokumentidentifikation": "GEO-2026-005350/3",
+    "dokumenttitel": "Ajstrup Strandvej 55 - Fra ejer, tanken er tømt af anden entreprenør",
+    "dokumentnr": "16263659",
+    "brevdato": "2026-08-20T00:00:00",
+    "journalDate": "2026-09-02T09:48:01",
+    "sagsnr": "GEO-2026-005350",
+    "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Vand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-02",
+    "_status": "new"
   },
   {
     "id": 383008,
@@ -908,6 +1121,51 @@
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
     "_queried_date": "2026-09-02"
+  },
+  {
+    "id": 383445,
+    "dokumentidentifikation": "GEO-2026-006305/1",
+    "dokumenttitel": "Oceanvej 3 - Ansøgning vedr. tilslutningstilladelse indsendt i BOM",
+    "dokumentnr": "16263626",
+    "brevdato": "2026-08-24T00:00:00",
+    "journalDate": "2026-09-02T09:44:39",
+    "sagsnr": "GEO-2026-006305",
+    "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Vand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-02",
+    "_status": "new"
+  },
+  {
+    "id": 383444,
+    "dokumentidentifikation": "GEO-2026-006304/1",
+    "dokumenttitel": "Vangen 5 - Ansøgning vedr. tilslutningstilladelse indsendt via BOM",
+    "dokumentnr": "16263586",
+    "brevdato": "2026-08-24T00:00:00",
+    "journalDate": "2026-09-02T09:40:51",
+    "sagsnr": "GEO-2026-006304",
+    "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Vand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-02",
+    "_status": "new"
+  },
+  {
+    "id": 383443,
+    "dokumentidentifikation": "GEO-2013-029397/41",
+    "dokumenttitel": "Rapport nr. 602993 (Drikkevand, Risvang 7, 8530 Hjortshøj) færdiganalyseret",
+    "dokumentnr": "16263061",
+    "brevdato": "2026-09-01T00:00:00",
+    "journalDate": "2026-09-02T08:35:23",
+    "sagsnr": "GEO-2013-029397",
+    "ansvarligEnhed": "MTM-Forvaltningschef/Natur og Miljø/Vand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-02",
+    "_status": "new"
   },
   {
     "id": 383005,
@@ -977,6 +1235,20 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-01"
+  },
+  {
+    "id": 383436,
+    "dokumentidentifikation": "GEO-2026-006288/1",
+    "dokumenttitel": "Humlevej 23, 8240 Risskov - Ansøgning til nedsivning af regnvand - 26-08-2026",
+    "dokumentnr": "16262144",
+    "brevdato": "2026-08-26T00:00:00",
+    "journalDate": "2026-09-01T14:50:42",
+    "sagsnr": "GEO-2026-006288",
+    "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Vand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
     "_queried_date": "2026-09-01",
     "_status": "new"
   },
@@ -992,8 +1264,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-01",
-    "_status": "new"
+    "_queried_date": "2026-09-01"
   },
   {
     "id": 383206,
@@ -1007,8 +1278,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-01",
-    "_status": "new"
+    "_queried_date": "2026-09-01"
   },
   {
     "id": 383226,
@@ -1019,6 +1289,20 @@
     "journalDate": "2026-09-01T14:04:51",
     "sagsnr": "GEO-2021-038341",
     "ansvarligEnhed": "MTM-Forvaltningschef/Plan/Lokalplanlægning og VVM",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-01"
+  },
+  {
+    "id": 383435,
+    "dokumentidentifikation": "GEO-2019-055609/29",
+    "dokumenttitel": "Serviceeftersyn på minirenseanlæg, Skivholmevej 29, 2026",
+    "dokumentnr": "16261477",
+    "brevdato": "2026-09-01T00:00:00",
+    "journalDate": "2026-09-01T13:50:47",
+    "sagsnr": "GEO-2019-055609",
+    "ansvarligEnhed": "MTM-Forvaltningschef/Natur og Miljø/Vand",
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
@@ -1037,8 +1321,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-01",
-    "_status": "new"
+    "_queried_date": "2026-09-01"
   },
   {
     "id": 383224,
@@ -1049,6 +1332,35 @@
     "journalDate": "2026-09-01T12:54:35",
     "sagsnr": "GEO-2026-006275",
     "ansvarligEnhed": "MTM-By og Natur/Plan/VVM og Landskab",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-01"
+  },
+  {
+    "id": 383434,
+    "dokumentidentifikation": "GEO-2026-005632/6",
+    "dokumenttitel": "Skæring Strandvej 60, 8250 Egå - Ansøgning til nedsivning af regnvand - 31-08-2026",
+    "dokumentnr": "16260434",
+    "brevdato": "2026-08-31T00:00:00",
+    "journalDate": "2026-09-01T12:36:45",
+    "sagsnr": "GEO-2026-005632",
+    "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Vand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-01",
+    "_status": "new"
+  },
+  {
+    "id": 383433,
+    "dokumentidentifikation": "GEO-2026-006273/1",
+    "dokumenttitel": "Godkendelse af eksisterende faskiner",
+    "dokumentnr": "16260324",
+    "brevdato": "2026-08-23T00:00:00",
+    "journalDate": "2026-09-01T12:27:01",
+    "sagsnr": "GEO-2026-006273",
+    "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Vand",
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
@@ -1067,8 +1379,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-01",
-    "_status": "new"
+    "_queried_date": "2026-09-01"
   },
   {
     "id": 383222,
@@ -1082,8 +1393,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-01",
-    "_status": "new"
+    "_queried_date": "2026-09-01"
   },
   {
     "id": 383221,
@@ -1097,8 +1407,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-01",
-    "_status": "new"
+    "_queried_date": "2026-09-01"
   },
   {
     "id": 383220,
@@ -1112,8 +1421,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-01",
-    "_status": "new"
+    "_queried_date": "2026-09-01"
   },
   {
     "id": 383219,
@@ -1127,8 +1435,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-01",
-    "_status": "new"
+    "_queried_date": "2026-09-01"
   },
   {
     "id": 383218,
@@ -1142,8 +1449,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-01",
-    "_status": "new"
+    "_queried_date": "2026-09-01"
   },
   {
     "id": 383217,
@@ -1157,8 +1463,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-01",
-    "_status": "new"
+    "_queried_date": "2026-09-01"
   },
   {
     "id": 383216,
@@ -1172,8 +1477,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-01",
-    "_status": "new"
+    "_queried_date": "2026-09-01"
   },
   {
     "id": 383215,
@@ -1184,6 +1488,20 @@
     "journalDate": "2026-09-01T11:37:41",
     "sagsnr": "GEO-2026-000069",
     "ansvarligEnhed": "MTM-By og Natur/Klima og Energi/Virksomheder",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-01"
+  },
+  {
+    "id": 383432,
+    "dokumentidentifikation": "GEO-2025-002443/12",
+    "dokumenttitel": "Ansøgning om etablering af spildevandsanlæg - Bendstrupvej 25, 8541 Skødstrup",
+    "dokumentnr": "16259751",
+    "brevdato": "2026-08-25T00:00:00",
+    "journalDate": "2026-09-01T11:21:13",
+    "sagsnr": "GEO-2025-002443",
+    "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Vand",
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
@@ -1202,8 +1520,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-01",
-    "_status": "new"
+    "_queried_date": "2026-09-01"
   },
   {
     "id": 383213,
@@ -1217,8 +1534,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-01",
-    "_status": "new"
+    "_queried_date": "2026-09-01"
   },
   {
     "id": 382989,
@@ -1274,8 +1590,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-01",
-    "_status": "new"
+    "_queried_date": "2026-09-01"
   },
   {
     "id": 383212,
@@ -1289,8 +1604,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-01",
-    "_status": "new"
+    "_queried_date": "2026-09-01"
   },
   {
     "id": 383211,
@@ -1304,8 +1618,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-01",
-    "_status": "new"
+    "_queried_date": "2026-09-01"
   },
   {
     "id": 383210,
@@ -1319,8 +1632,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-01",
-    "_status": "new"
+    "_queried_date": "2026-09-01"
   },
   {
     "id": 383209,
@@ -1331,6 +1643,35 @@
     "journalDate": "2026-09-01T08:55:57",
     "sagsnr": "GEO-2025-007328",
     "ansvarligEnhed": "MTM-By og Natur/Klima og Energi/Virksomheder",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-01"
+  },
+  {
+    "id": 383431,
+    "dokumentidentifikation": "GEO-2018-012088/35",
+    "dokumenttitel": "Serviceeftersyn på minirenseanlæg, Findalsvej 3, 8300 Odder, 2026",
+    "dokumentnr": "16258222",
+    "brevdato": "2026-08-27T00:00:00",
+    "journalDate": "2026-09-01T08:51:24",
+    "sagsnr": "GEO-2018-012088",
+    "ansvarligEnhed": "MTM-Forvaltningschef/Natur og Miljø/Vand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-01",
+    "_status": "new"
+  },
+  {
+    "id": 383430,
+    "dokumentidentifikation": "GEO-2019-021710/25",
+    "dokumenttitel": "Mustrupvej 16 - Opfølgende vandprøve OK, 16-07-2026",
+    "dokumentnr": "16258191",
+    "brevdato": "2026-08-27T00:00:00",
+    "journalDate": "2026-09-01T08:48:10",
+    "sagsnr": "GEO-2019-021710",
+    "ansvarligEnhed": "MTM-Forvaltningschef/Natur og Miljø/Vand",
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
@@ -1349,8 +1690,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-01",
-    "_status": "new"
+    "_queried_date": "2026-09-01"
   },
   {
     "id": 383207,
@@ -1361,6 +1701,35 @@
     "journalDate": "2026-09-01T08:19:46",
     "sagsnr": "GEO-2025-007340",
     "ansvarligEnhed": "MTM-By og Natur/Klima og Energi/Virksomheder",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-01"
+  },
+  {
+    "id": 383429,
+    "dokumentidentifikation": "GEO-2018-012090/49",
+    "dokumenttitel": "Serviceeftersyn på minirenseanlæg, Sletholmsvej 9 og 11, 2026",
+    "dokumentnr": "16257946",
+    "brevdato": "2026-08-31T00:00:00",
+    "journalDate": "2026-09-01T08:14:48",
+    "sagsnr": "GEO-2018-012090",
+    "ansvarligEnhed": "MTM-Forvaltningschef/Natur og Miljø/Vand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-01",
+    "_status": "new"
+  },
+  {
+    "id": 383428,
+    "dokumentidentifikation": "GEO-2018-048002/59",
+    "dokumenttitel": "Serviceeftersyn på minirenseanlæg, Østergårdsvej 171, 2026",
+    "dokumentnr": "16257890",
+    "brevdato": "2026-08-31T00:00:00",
+    "journalDate": "2026-09-01T08:00:16",
+    "sagsnr": "GEO-2018-048002",
+    "ansvarligEnhed": "MTM-Forvaltningschef/Natur og Miljø/Vand",
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
@@ -1379,8 +1748,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-01",
-    "_status": "new"
+    "_queried_date": "2026-09-01"
   },
   {
     "id": 382986,
@@ -1450,8 +1818,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-08-31",
-    "_status": "new"
+    "_queried_date": "2026-08-31"
   },
   {
     "id": 383189,
@@ -1465,8 +1832,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-08-31",
-    "_status": "new"
+    "_queried_date": "2026-08-31"
   },
   {
     "id": 382969,
@@ -1522,6 +1888,20 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-08-31"
+  },
+  {
+    "id": 383423,
+    "dokumentidentifikation": "GEO-2026-006233/5",
+    "dokumenttitel": "Autosvar fra Aarhus Vand A/S",
+    "dokumentnr": "16255641",
+    "brevdato": "2026-08-31T00:00:00",
+    "journalDate": "2026-08-31T12:27:25",
+    "sagsnr": "GEO-2026-006233",
+    "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Vand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
     "_queried_date": "2026-08-31",
     "_status": "new"
   },
@@ -1537,8 +1917,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-08-31",
-    "_status": "new"
+    "_queried_date": "2026-08-31"
   },
   {
     "id": 382966,
@@ -1566,8 +1945,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-08-31",
-    "_status": "new"
+    "_queried_date": "2026-08-31"
   },
   {
     "id": 383179,
@@ -1581,8 +1959,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-08-31",
-    "_status": "new"
+    "_queried_date": "2026-08-31"
   },
   {
     "id": 383185,
@@ -1593,6 +1970,35 @@
     "journalDate": "2026-08-31T10:31:44",
     "sagsnr": "GEO-2026-006223",
     "ansvarligEnhed": "MTM-By og Natur/Plan/Proces og Jura",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-08-31"
+  },
+  {
+    "id": 383422,
+    "dokumentidentifikation": "GEO-2026-004839/10",
+    "dokumenttitel": "SV: Højspændingsstationer ved Malling",
+    "dokumentnr": "16254382",
+    "brevdato": "2026-08-31T00:00:00",
+    "journalDate": "2026-08-31T10:22:19",
+    "sagsnr": "GEO-2026-004839",
+    "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Natur",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-08-31",
+    "_status": "new"
+  },
+  {
+    "id": 383421,
+    "dokumentidentifikation": "GEO-2026-005289/10",
+    "dokumenttitel": "Det ansøgte kræver dispensation fra skovlovens § 11, stk. 1, jf. § 38 (SGAV Id nr.: 14032093)",
+    "dokumentnr": "16254302",
+    "brevdato": "2026-08-12T00:00:00",
+    "journalDate": "2026-08-31T10:12:32",
+    "sagsnr": "GEO-2026-005289",
+    "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Vand",
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
@@ -1625,8 +2031,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-08-31",
-    "_status": "new"
+    "_queried_date": "2026-08-31"
   },
   {
     "id": 383183,
@@ -1640,8 +2045,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-08-31",
-    "_status": "new"
+    "_queried_date": "2026-08-31"
   },
   {
     "id": 382965,
@@ -1672,6 +2076,36 @@
     "_queried_date": "2026-08-31"
   },
   {
+    "id": 383420,
+    "dokumentidentifikation": "GEO-2025-008117/36",
+    "dokumenttitel": "Ingen Kim22 - ny drikkevandsfontæne Ridehuset Musikhuset",
+    "dokumentnr": "16253469",
+    "brevdato": "2026-08-31T00:00:00",
+    "journalDate": "2026-08-31T08:42:46",
+    "sagsnr": "GEO-2025-008117",
+    "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Vand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-08-31",
+    "_status": "new"
+  },
+  {
+    "id": 383419,
+    "dokumentidentifikation": "GEO-2026-006201/1",
+    "dokumenttitel": "Opmåling og forundersøgelse i dit område_Teglgårdsvej 21-33_Holmegårdsvej 52-64 Højbjerg",
+    "dokumentnr": "16253467",
+    "brevdato": "2026-08-28T00:00:00",
+    "journalDate": "2026-08-31T08:38:22",
+    "sagsnr": "GEO-2026-006201",
+    "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Vand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-08-31",
+    "_status": "new"
+  },
+  {
     "id": 383182,
     "dokumentidentifikation": "GEO-2023-003361/129",
     "dokumenttitel": "Rapport AR-26-CG-26078146-01 vedr. First Camp Aarhus - Pool, udendørs att: Rapportmodtager",
@@ -1683,8 +2117,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-08-31",
-    "_status": "new"
+    "_queried_date": "2026-08-31"
   },
   {
     "id": 382868,
@@ -1713,33 +2146,5 @@
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
     "_queried_date": "2026-08-31"
-  },
-  {
-    "id": 382865,
-    "dokumentidentifikation": "GEO-2021-010202/169",
-    "dokumenttitel": "Mail fra rådgiver med liste over rettelser og forslag til ændringer af lokalplanforslag",
-    "dokumentnr": "16253097",
-    "brevdato": "2026-08-28T00:00:00",
-    "journalDate": "2026-08-30T16:50:37",
-    "sagsnr": "GEO-2021-010202",
-    "ansvarligEnhed": "MTM-Forvaltningschef/Plan/Lokalplanlægning og VVM",
-    "dokumenttype": "Indgående",
-    "_department": "MTM-",
-    "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-08-30"
-  },
-  {
-    "id": 382864,
-    "dokumentidentifikation": "GEO-2019-017476/230",
-    "dokumenttitel": "Mail fra redaktøren for lokalbladet \"8541\" vedr. sagens status",
-    "dokumentnr": "16253094",
-    "brevdato": "2026-08-28T00:00:00",
-    "journalDate": "2026-08-30T16:47:42",
-    "sagsnr": "GEO-2019-017476",
-    "ansvarligEnhed": "MTM-Forvaltningschef/Plan/Lokalplanlægning og VVM",
-    "dokumenttype": "Indgående",
-    "_department": "MTM-",
-    "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-08-30"
   }
 ]
