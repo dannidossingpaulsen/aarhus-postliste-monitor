@@ -1,5 +1,185 @@
 [
   {
+    "id": 383760,
+    "dokumentidentifikation": "EMN-2021-036599/103",
+    "dokumenttitel": "Aarhus Kommune - afgørelse fra Skattestyrelsen",
+    "dokumentnr": "16309749",
+    "brevdato": "2026-08-25T00:00:00",
+    "journalDate": "2026-09-15T10:05:35",
+    "sagsnr": "EMN-2021-036599",
+    "ansvarligEnhed": "MBA-Økonomi og Digitalisering/Fælles Økonomi og Løn",
+    "dokumenttype": "Indgående",
+    "_department": "MBA-",
+    "_department_name": "Borgmesterens Afdeling",
+    "_queried_date": "2026-09-15",
+    "_status": "new"
+  },
+  {
+    "id": 383759,
+    "dokumentidentifikation": "EMN-2026-000073/259",
+    "dokumenttitel": "Nyhedsbrev til Aarhus Byråd: Bladet 8541",
+    "dokumentnr": "16309476",
+    "brevdato": "2026-09-14T15:15:15",
+    "journalDate": "2026-09-15T09:39:42",
+    "sagsnr": "EMN-2026-000073",
+    "ansvarligEnhed": "MBA-Byråd og Jura/Byrådsservice og Jura",
+    "dokumenttype": "Indgående",
+    "_department": "MBA-",
+    "_department_name": "Borgmesterens Afdeling",
+    "_queried_date": "2026-09-15",
+    "_status": "new"
+  },
+  {
+    "id": 383758,
+    "dokumentidentifikation": "EMN-2026-000070/43",
+    "dokumenttitel": "Borgerhenvendelse til byrådet vedr. ABA-tilbuddet til børn med autisme",
+    "dokumentnr": "16309386",
+    "brevdato": "2026-09-14T00:00:00",
+    "journalDate": "2026-09-15T09:30:50",
+    "sagsnr": "EMN-2026-000070",
+    "ansvarligEnhed": "MBA-Sekretariat, Erhverv og Organisation/Sekretariat, Projekt og Analyse/Sekretariat BA",
+    "dokumenttype": "Indgående",
+    "_department": "MBA-",
+    "_department_name": "Borgmesterens Afdeling",
+    "_queried_date": "2026-09-15",
+    "_status": "new"
+  },
+  {
+    "id": 383757,
+    "dokumentidentifikation": "EMN-2025-012929/22",
+    "dokumenttitel": "Skolebestyrelsen for Sølystskolen og Kaløvigskolen ønsker foretræde for Økonomi- og Erhvervsudvalget onsdag den 16/9/2026 under pkt. vedr. Budget 2027",
+    "dokumentnr": "16309368",
+    "brevdato": "2026-09-15T00:00:00",
+    "journalDate": "2026-09-15T09:28:56",
+    "sagsnr": "EMN-2025-012929",
+    "ansvarligEnhed": "MBA-Sekretariat, Erhverv og Organisation/Sekretariat, Projekt og Analyse/Sekretariat BA",
+    "dokumenttype": "Indgående",
+    "_department": "MBA-",
+    "_department_name": "Borgmesterens Afdeling",
+    "_queried_date": "2026-09-15",
+    "_status": "new"
+  },
+  {
+    "id": 383756,
+    "dokumentidentifikation": "EMN-2023-008367/31",
+    "dokumenttitel": "Styregruppemøde #1: Ny letbanestation og depot ved Rude Havvej - opdateret referat",
+    "dokumentnr": "16309315",
+    "brevdato": "2026-09-13T00:00:00",
+    "journalDate": "2026-09-15T09:26:54",
+    "sagsnr": "EMN-2023-008367",
+    "ansvarligEnhed": "MBA-Økonomi og Digitalisering/Budget og Planlægning",
+    "dokumenttype": "Indgående",
+    "_department": "MBA-",
+    "_department_name": "Borgmesterens Afdeling",
+    "_queried_date": "2026-09-15",
+    "_status": "new"
+  },
+  {
+    "id": 383754,
+    "dokumentidentifikation": "GEO-2026-003526/10",
+    "dokumenttitel": "Plananmodning",
+    "dokumentnr": "15940973",
+    "brevdato": "2026-05-13T00:00:00",
+    "journalDate": "2026-09-15T12:51:50",
+    "sagsnr": "GEO-2026-003526",
+    "ansvarligEnhed": "MTM-By og Natur/Plan/Lokalplan 2",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-15",
+    "_status": "new"
+  },
+  {
+    "id": 383765,
+    "dokumentidentifikation": "GEO-2024-207692/60",
+    "dokumenttitel": "Svar fra ansøger om mødedato",
+    "dokumentnr": "16311960",
+    "brevdato": "2026-09-15T00:00:00",
+    "journalDate": "2026-09-15T12:48:44",
+    "sagsnr": "GEO-2024-207692",
+    "ansvarligEnhed": "MTM-By og Natur/Plan og Byggeri/Planprocesser",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-15",
+    "_status": "new"
+  },
+  {
+    "id": 383762,
+    "dokumentidentifikation": "GEO-2026-003762/39",
+    "dokumenttitel": "Fra ansøger - Svar på spørgsmål vedr. dræn og udledning",
+    "dokumentnr": "16311050",
+    "brevdato": "2026-09-15T00:00:00",
+    "journalDate": "2026-09-15T12:37:40",
+    "sagsnr": "GEO-2026-003762",
+    "ansvarligEnhed": "MTM-By og Natur/Plan/VVM og Landskab",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-15",
+    "_status": "new"
+  },
+  {
+    "id": 383764,
+    "dokumentidentifikation": "GEO-2023-003263/24",
+    "dokumenttitel": "Henvendelse fra DR",
+    "dokumentnr": "16311189",
+    "brevdato": "2026-09-10T00:00:00",
+    "journalDate": "2026-09-15T11:49:32",
+    "sagsnr": "GEO-2023-003263",
+    "ansvarligEnhed": "MTM-Forvaltningschef/Plan og Byggeri/Lokalplanlægning og VVM",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-15",
+    "_status": "new"
+  },
+  {
+    "id": 383763,
+    "dokumentidentifikation": "GEO-2023-003263/23",
+    "dokumenttitel": "Invitation til markvandring for nyt naturområde og solcelleanlæg",
+    "dokumentnr": "16311168",
+    "brevdato": "2026-09-15T00:00:00",
+    "journalDate": "2026-09-15T11:48:49",
+    "sagsnr": "GEO-2023-003263",
+    "ansvarligEnhed": "MTM-Forvaltningschef/Plan og Byggeri/Lokalplanlægning og VVM",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-15",
+    "_status": "new"
+  },
+  {
+    "id": 383761,
+    "dokumentidentifikation": "GEO-2025-002389/82",
+    "dokumenttitel": "RisskovLIV om Vejlbjergvej",
+    "dokumentnr": "16309893",
+    "brevdato": "2026-09-15T00:00:00",
+    "journalDate": "2026-09-15T10:13:51",
+    "sagsnr": "GEO-2025-002389",
+    "ansvarligEnhed": "MTM-By og Natur/Plan og Byggeri/Plan og VVM",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-15",
+    "_status": "new"
+  },
+  {
+    "id": 383755,
+    "dokumentidentifikation": "GEO-2024-000603/126",
+    "dokumenttitel": "Manglende oplysninger - Kabelkorridor",
+    "dokumentnr": "16309094",
+    "brevdato": "2026-09-14T00:00:00",
+    "journalDate": "2026-09-15T08:58:14",
+    "sagsnr": "GEO-2024-000603",
+    "ansvarligEnhed": "MTM-Forvaltningschef/Plan og Byggeri/Lokalplanlægning og VVM",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-15",
+    "_status": "new"
+  },
+  {
     "id": 383737,
     "dokumentidentifikation": "EMN-2026-009908/106",
     "dokumenttitel": "Borgerhenvendelse vedr. lukning af rehabiliteringshøjskolen",
@@ -11,8 +191,7 @@
     "dokumenttype": "Indgående",
     "_department": "MBA-",
     "_department_name": "Borgmesterens Afdeling",
-    "_queried_date": "2026-09-14",
-    "_status": "new"
+    "_queried_date": "2026-09-14"
   },
   {
     "id": 383736,
@@ -26,8 +205,7 @@
     "dokumenttype": "Indgående",
     "_department": "MBA-",
     "_department_name": "Borgmesterens Afdeling",
-    "_queried_date": "2026-09-14",
-    "_status": "new"
+    "_queried_date": "2026-09-14"
   },
   {
     "id": 383733,
@@ -41,8 +219,7 @@
     "dokumenttype": "Indgående",
     "_department": "MBA-",
     "_department_name": "Borgmesterens Afdeling",
-    "_queried_date": "2026-09-14",
-    "_status": "new"
+    "_queried_date": "2026-09-14"
   },
   {
     "id": 383732,
@@ -56,8 +233,7 @@
     "dokumenttype": "Indgående",
     "_department": "MBA-",
     "_department_name": "Borgmesterens Afdeling",
-    "_queried_date": "2026-09-14",
-    "_status": "new"
+    "_queried_date": "2026-09-14"
   },
   {
     "id": 383731,
@@ -71,8 +247,7 @@
     "dokumenttype": "Indgående",
     "_department": "MBA-",
     "_department_name": "Borgmesterens Afdeling",
-    "_queried_date": "2026-09-14",
-    "_status": "new"
+    "_queried_date": "2026-09-14"
   },
   {
     "id": 383730,
@@ -86,8 +261,7 @@
     "dokumenttype": "Indgående",
     "_department": "MBA-",
     "_department_name": "Borgmesterens Afdeling",
-    "_queried_date": "2026-09-14",
-    "_status": "new"
+    "_queried_date": "2026-09-14"
   },
   {
     "id": 383728,
@@ -101,8 +275,7 @@
     "dokumenttype": "Indgående",
     "_department": "MBA-",
     "_department_name": "Borgmesterens Afdeling",
-    "_queried_date": "2026-09-14",
-    "_status": "new"
+    "_queried_date": "2026-09-14"
   },
   {
     "id": 383727,
@@ -116,6 +289,110 @@
     "dokumenttype": "Indgående",
     "_department": "MBA-",
     "_department_name": "Borgmesterens Afdeling",
+    "_queried_date": "2026-09-14"
+  },
+  {
+    "id": 383753,
+    "dokumentidentifikation": "GEO-2020-158786/281",
+    "dokumenttitel": "Mail fra rådgiver iht. møde d. 14.09.2025 - Kommentarer til kortbilag 2, Arealanvendelse",
+    "dokumentnr": "16308373",
+    "brevdato": "2026-09-14T00:00:00",
+    "journalDate": "2026-09-14T18:55:35",
+    "sagsnr": "GEO-2020-158786",
+    "ansvarligEnhed": "MTM-Forvaltningschef/Plan/Lokalplanlægning og VVM",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-14",
+    "_status": "new"
+  },
+  {
+    "id": 383752,
+    "dokumentidentifikation": "GEO-2020-158786/279",
+    "dokumenttitel": "Mail fra rådgiver iht. møde d. 14.09.2026 -  Kommentarer til kortbilag 3, Beplantningsplan",
+    "dokumentnr": "16308370",
+    "brevdato": "2026-09-14T00:00:00",
+    "journalDate": "2026-09-14T18:54:26",
+    "sagsnr": "GEO-2020-158786",
+    "ansvarligEnhed": "MTM-Forvaltningschef/Plan/Lokalplanlægning og VVM",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-14",
+    "_status": "new"
+  },
+  {
+    "id": 383751,
+    "dokumentidentifikation": "GEO-2020-158786/278",
+    "dokumenttitel": "Svar fra projektudvikler (MN) - tak for info om bevaringsværdig bebyggelse",
+    "dokumentnr": "16308360",
+    "brevdato": "2026-09-13T00:00:00",
+    "journalDate": "2026-09-14T18:49:01",
+    "sagsnr": "GEO-2020-158786",
+    "ansvarligEnhed": "MTM-Forvaltningschef/Plan/Lokalplanlægning og VVM",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-14",
+    "_status": "new"
+  },
+  {
+    "id": 383750,
+    "dokumentidentifikation": "GEO-2020-158783/636",
+    "dokumenttitel": "Kort mail fra borger med tak for hurtigt svar vedr. lokalplansagen",
+    "dokumentnr": "16308357",
+    "brevdato": "2026-09-14T00:00:00",
+    "journalDate": "2026-09-14T18:46:10",
+    "sagsnr": "GEO-2020-158783",
+    "ansvarligEnhed": "MTM-Forvaltningschef/Plan/Lokalplanlægning og VVM",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-14",
+    "_status": "new"
+  },
+  {
+    "id": 383749,
+    "dokumentidentifikation": "GEO-2020-158783/634",
+    "dokumenttitel": "Mail fra borger, der spørger til status i lokalplansagen",
+    "dokumentnr": "16308353",
+    "brevdato": "2026-09-14T00:00:00",
+    "journalDate": "2026-09-14T18:41:15",
+    "sagsnr": "GEO-2020-158783",
+    "ansvarligEnhed": "MTM-Forvaltningschef/Plan/Lokalplanlægning og VVM",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-14",
+    "_status": "new"
+  },
+  {
+    "id": 383748,
+    "dokumentidentifikation": "GEO-2026-003762/38",
+    "dokumenttitel": "Svar fra ansøger vedr. spørgsmål til projektet",
+    "dokumentnr": "16307699",
+    "brevdato": "2026-09-14T00:00:00",
+    "journalDate": "2026-09-14T14:40:07",
+    "sagsnr": "GEO-2026-003762",
+    "ansvarligEnhed": "MTM-By og Natur/Plan/VVM og Landskab",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-14",
+    "_status": "new"
+  },
+  {
+    "id": 383747,
+    "dokumentidentifikation": "GEO-2026-003762/37",
+    "dokumenttitel": "Svar fra ansøger vedr. spørgsmål til projektet",
+    "dokumentnr": "16307648",
+    "brevdato": "2026-09-14T00:00:00",
+    "journalDate": "2026-09-14T14:39:36",
+    "sagsnr": "GEO-2026-003762",
+    "ansvarligEnhed": "MTM-By og Natur/Plan/VVM og Landskab",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
     "_queried_date": "2026-09-14",
     "_status": "new"
   },
@@ -131,8 +408,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-14",
-    "_status": "new"
+    "_queried_date": "2026-09-14"
   },
   {
     "id": 383602,
@@ -258,8 +534,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-11",
-    "_status": "new"
+    "_queried_date": "2026-09-11"
   },
   {
     "id": 383718,
@@ -273,8 +548,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-11",
-    "_status": "new"
+    "_queried_date": "2026-09-11"
   },
   {
     "id": 383705,
@@ -288,8 +562,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-11",
-    "_status": "new"
+    "_queried_date": "2026-09-11"
   },
   {
     "id": 383704,
@@ -303,8 +576,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-11",
-    "_status": "new"
+    "_queried_date": "2026-09-11"
   },
   {
     "id": 383703,
@@ -318,8 +590,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-11",
-    "_status": "new"
+    "_queried_date": "2026-09-11"
   },
   {
     "id": 383593,
@@ -375,8 +646,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-10",
-    "_status": "new"
+    "_queried_date": "2026-09-10"
   },
   {
     "id": 383686,
@@ -390,8 +660,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-10",
-    "_status": "new"
+    "_queried_date": "2026-09-10"
   },
   {
     "id": 383684,
@@ -405,8 +674,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-10",
-    "_status": "new"
+    "_queried_date": "2026-09-10"
   },
   {
     "id": 383682,
@@ -420,8 +688,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-10",
-    "_status": "new"
+    "_queried_date": "2026-09-10"
   },
   {
     "id": 383663,
@@ -435,8 +702,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-10",
-    "_status": "new"
+    "_queried_date": "2026-09-10"
   },
   {
     "id": 383664,
@@ -450,8 +716,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-10",
-    "_status": "new"
+    "_queried_date": "2026-09-10"
   },
   {
     "id": 383665,
@@ -465,8 +730,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-10",
-    "_status": "new"
+    "_queried_date": "2026-09-10"
   },
   {
     "id": 383666,
@@ -480,8 +744,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-10",
-    "_status": "new"
+    "_queried_date": "2026-09-10"
   },
   {
     "id": 383676,
@@ -495,8 +758,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-10",
-    "_status": "new"
+    "_queried_date": "2026-09-10"
   },
   {
     "id": 383675,
@@ -510,8 +772,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-10",
-    "_status": "new"
+    "_queried_date": "2026-09-10"
   },
   {
     "id": 383671,
@@ -525,8 +786,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-10",
-    "_status": "new"
+    "_queried_date": "2026-09-10"
   },
   {
     "id": 383670,
@@ -540,8 +800,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-10",
-    "_status": "new"
+    "_queried_date": "2026-09-10"
   },
   {
     "id": 383582,
@@ -611,8 +870,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-09",
-    "_status": "new"
+    "_queried_date": "2026-09-09"
   },
   {
     "id": 383651,
@@ -626,8 +884,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-09",
-    "_status": "new"
+    "_queried_date": "2026-09-09"
   },
   {
     "id": 383635,
@@ -641,8 +898,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-09",
-    "_status": "new"
+    "_queried_date": "2026-09-09"
   },
   {
     "id": 383579,
@@ -670,8 +926,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-09",
-    "_status": "new"
+    "_queried_date": "2026-09-09"
   },
   {
     "id": 383648,
@@ -685,8 +940,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-09",
-    "_status": "new"
+    "_queried_date": "2026-09-09"
   },
   {
     "id": 383647,
@@ -700,8 +954,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-09",
-    "_status": "new"
+    "_queried_date": "2026-09-09"
   },
   {
     "id": 383576,
@@ -729,8 +982,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-08",
-    "_status": "new"
+    "_queried_date": "2026-09-08"
   },
   {
     "id": 383574,
@@ -758,8 +1010,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-08",
-    "_status": "new"
+    "_queried_date": "2026-09-08"
   },
   {
     "id": 383632,
@@ -773,8 +1024,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-08",
-    "_status": "new"
+    "_queried_date": "2026-09-08"
   },
   {
     "id": 383549,
@@ -830,8 +1080,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-08",
-    "_status": "new"
+    "_queried_date": "2026-09-08"
   },
   {
     "id": 383547,
@@ -859,8 +1108,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-08",
-    "_status": "new"
+    "_queried_date": "2026-09-08"
   },
   {
     "id": 383546,
@@ -930,8 +1178,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-08",
-    "_status": "new"
+    "_queried_date": "2026-09-08"
   },
   {
     "id": 383492,
@@ -1043,8 +1290,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-07",
-    "_status": "new"
+    "_queried_date": "2026-09-07"
   },
   {
     "id": 383615,
@@ -1058,8 +1304,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-07",
-    "_status": "new"
+    "_queried_date": "2026-09-07"
   },
   {
     "id": 383614,
@@ -1073,8 +1318,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-07",
-    "_status": "new"
+    "_queried_date": "2026-09-07"
   },
   {
     "id": 383613,
@@ -1088,8 +1332,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-07",
-    "_status": "new"
+    "_queried_date": "2026-09-07"
   },
   {
     "id": 383545,
@@ -1131,8 +1374,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-07",
-    "_status": "new"
+    "_queried_date": "2026-09-07"
   },
   {
     "id": 383465,
@@ -1188,8 +1430,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-07",
-    "_status": "new"
+    "_queried_date": "2026-09-07"
   },
   {
     "id": 383544,
@@ -1231,8 +1472,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-07",
-    "_status": "new"
+    "_queried_date": "2026-09-07"
   },
   {
     "id": 383299,
@@ -1358,7 +1598,6 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-07",
-    "_status": "new"
+    "_queried_date": "2026-09-07"
   }
 ]
