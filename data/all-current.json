@@ -1,5 +1,95 @@
 [
   {
+    "id": 384235,
+    "dokumentidentifikation": "AKT-2026-001718/3",
+    "dokumenttitel": "Re: [EXT] Kvittering for aktindsigt vedr. Strandvænget 5A og 5B, 8240 Risskov.",
+    "dokumentnr": "16339041",
+    "brevdato": "2026-09-21T00:00:00",
+    "journalDate": "2026-09-22T12:43:16",
+    "sagsnr": "AKT-2026-001718",
+    "ansvarligEnhed": "MBA-Sekretariat, Erhverv og Organisation/Kommunikation og Fælles Platforme",
+    "dokumenttype": "Indgående",
+    "_department": "MBA-",
+    "_department_name": "Borgmesterens Afdeling",
+    "_queried_date": "2026-09-22",
+    "_status": "new"
+  },
+  {
+    "id": 384234,
+    "dokumentidentifikation": "AKT-2026-001718/1",
+    "dokumenttitel": "Aktindsigt vedr. bygninger på Strandvænget",
+    "dokumentnr": "16339016",
+    "brevdato": "2026-09-21T00:00:00",
+    "journalDate": "2026-09-22T12:42:07",
+    "sagsnr": "AKT-2026-001718",
+    "ansvarligEnhed": "MBA-Sekretariat, Erhverv og Organisation/Kommunikation og Fælles Platforme",
+    "dokumenttype": "Indgående",
+    "_department": "MBA-",
+    "_department_name": "Borgmesterens Afdeling",
+    "_queried_date": "2026-09-22",
+    "_status": "new"
+  },
+  {
+    "id": 384233,
+    "dokumentidentifikation": "GEO-2026-002361/10",
+    "dokumenttitel": "Svar igen vedr. Store køer i krydset Viby Ringvej/Esagervej/Tomsagervej",
+    "dokumentnr": "16336069",
+    "brevdato": "2026-09-16T00:00:00",
+    "journalDate": "2026-09-22T07:40:00",
+    "sagsnr": "GEO-2026-002361",
+    "ansvarligEnhed": "MTM-By og Natur/Byrum/Trafik og Vejdrift/Trafik",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-22",
+    "_status": "new"
+  },
+  {
+    "id": 384232,
+    "dokumentidentifikation": "GEO-2026-002361/9",
+    "dokumenttitel": "Henvendelse igen vedr. Store køer i krydset Viby Ringvej/Esagervej/Tomsagervej",
+    "dokumentnr": "16336067",
+    "brevdato": "2026-09-15T00:00:00",
+    "journalDate": "2026-09-22T07:38:52",
+    "sagsnr": "GEO-2026-002361",
+    "ansvarligEnhed": "MTM-By og Natur/Byrum/Trafik og Vejdrift/Trafik",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-22",
+    "_status": "new"
+  },
+  {
+    "id": 384231,
+    "dokumentidentifikation": "GEO-2026-002361/8",
+    "dokumenttitel": "Svar vedr. Store køer i krydset Viby Ringvej/Esagervej/Tomsagervej",
+    "dokumentnr": "16336063",
+    "brevdato": "2026-09-15T00:00:00",
+    "journalDate": "2026-09-22T07:37:46",
+    "sagsnr": "GEO-2026-002361",
+    "ansvarligEnhed": "MTM-By og Natur/Byrum/Trafik og Vejdrift/Trafik",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-22",
+    "_status": "new"
+  },
+  {
+    "id": 384230,
+    "dokumentidentifikation": "GEO-2026-002361/6",
+    "dokumenttitel": "Store køer i krydset Viby Ringvej/Esagervej/Tomsagervej",
+    "dokumentnr": "16336058",
+    "brevdato": "2026-09-11T00:00:00",
+    "journalDate": "2026-09-22T07:36:55",
+    "sagsnr": "GEO-2026-002361",
+    "ansvarligEnhed": "MTM-By og Natur/Byrum/Trafik og Vejdrift/Trafik",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-22",
+    "_status": "new"
+  },
+  {
     "id": 384209,
     "dokumentidentifikation": "EMN-2026-009908/173",
     "dokumenttitel": "Borgerhenvendelse vedr. lang sagsbehandlingstid på adresseændring",
@@ -11,8 +101,7 @@
     "dokumenttype": "Indgående",
     "_department": "MBA-",
     "_department_name": "Borgmesterens Afdeling",
-    "_queried_date": "2026-09-21",
-    "_status": "new"
+    "_queried_date": "2026-09-21"
   },
   {
     "id": 384208,
@@ -26,8 +115,7 @@
     "dokumenttype": "Indgående",
     "_department": "MBA-",
     "_department_name": "Borgmesterens Afdeling",
-    "_queried_date": "2026-09-21",
-    "_status": "new"
+    "_queried_date": "2026-09-21"
   },
   {
     "id": 384207,
@@ -41,8 +129,7 @@
     "dokumenttype": "Indgående",
     "_department": "MBA-",
     "_department_name": "Borgmesterens Afdeling",
-    "_queried_date": "2026-09-21",
-    "_status": "new"
+    "_queried_date": "2026-09-21"
   },
   {
     "id": 384206,
@@ -56,7 +143,21 @@
     "dokumenttype": "Indgående",
     "_department": "MBA-",
     "_department_name": "Borgmesterens Afdeling",
-    "_queried_date": "2026-09-21",
+    "_queried_date": "2026-09-21"
+  },
+  {
+    "id": 384221,
+    "dokumentidentifikation": "GEO-2023-005592/3",
+    "dokumenttitel": "Provsteparkvej 15, 8270 Højbjerg. Nedsænkning af kantsten",
+    "dokumentnr": "16329629",
+    "brevdato": "2026-08-27T00:00:00",
+    "journalDate": "2026-09-18T14:35:56",
+    "sagsnr": "GEO-2023-005592",
+    "ansvarligEnhed": "MTM-Vicedirektør/Byrum/Trafik og Vejdrift/Vejmyndighed",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-18",
     "_status": "new"
   },
   {
@@ -71,8 +172,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-18",
-    "_status": "new"
+    "_queried_date": "2026-09-18"
   },
   {
     "id": 384183,
@@ -86,8 +186,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-18",
-    "_status": "new"
+    "_queried_date": "2026-09-18"
   },
   {
     "id": 383896,
@@ -143,8 +242,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-17",
-    "_status": "new"
+    "_queried_date": "2026-09-17"
   },
   {
     "id": 384176,
@@ -158,8 +256,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-17",
-    "_status": "new"
+    "_queried_date": "2026-09-17"
   },
   {
     "id": 384175,
@@ -170,6 +267,20 @@
     "journalDate": "2026-09-17T10:34:36",
     "sagsnr": "GEO-2021-089654",
     "ansvarligEnhed": "MTM-By og Natur/Plan/Lokalplan 2",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-17"
+  },
+  {
+    "id": 384215,
+    "dokumentidentifikation": "GEO-2018-004523/3",
+    "dokumenttitel": "Gadebelysning I Kastanjehaven",
+    "dokumentnr": "16320413",
+    "brevdato": "2026-09-11T00:00:00",
+    "journalDate": "2026-09-17T09:41:04",
+    "sagsnr": "GEO-2018-004523",
+    "ansvarligEnhed": "MTM-Vicedirektør/Byrum/Trafik og Vejdrift",
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
@@ -188,8 +299,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-17",
-    "_status": "new"
+    "_queried_date": "2026-09-17"
   },
   {
     "id": 384173,
@@ -203,8 +313,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-17",
-    "_status": "new"
+    "_queried_date": "2026-09-17"
   },
   {
     "id": 384172,
@@ -218,8 +327,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-17",
-    "_status": "new"
+    "_queried_date": "2026-09-17"
   },
   {
     "id": 383877,
@@ -303,8 +411,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-16",
-    "_status": "new"
+    "_queried_date": "2026-09-16"
   },
   {
     "id": 384167,
@@ -318,8 +425,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-16",
-    "_status": "new"
+    "_queried_date": "2026-09-16"
   },
   {
     "id": 383878,
@@ -347,8 +453,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-16",
-    "_status": "new"
+    "_queried_date": "2026-09-16"
   },
   {
     "id": 383873,
@@ -390,8 +495,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-16",
-    "_status": "new"
+    "_queried_date": "2026-09-16"
   },
   {
     "id": 384155,
@@ -419,8 +523,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-16",
-    "_status": "new"
+    "_queried_date": "2026-09-16"
   },
   {
     "id": 383871,
@@ -518,8 +621,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-16",
-    "_status": "new"
+    "_queried_date": "2026-09-16"
   },
   {
     "id": 384162,
@@ -533,8 +635,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-16",
-    "_status": "new"
+    "_queried_date": "2026-09-16"
   },
   {
     "id": 384161,
@@ -548,8 +649,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-16",
-    "_status": "new"
+    "_queried_date": "2026-09-16"
   },
   {
     "id": 383779,
@@ -577,8 +677,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-16",
-    "_status": "new"
+    "_queried_date": "2026-09-16"
   },
   {
     "id": 383856,
@@ -1251,19 +1350,5 @@
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
     "_queried_date": "2026-09-14"
-  },
-  {
-    "id": 384137,
-    "dokumentidentifikation": "GEO-2026-000067/135",
-    "dokumenttitel": "Re: Opfølgning vedr. teknisk støj og manglende støjmålinger – Bytoften 19",
-    "dokumentnr": "16302532",
-    "brevdato": "2026-09-07T13:21:22",
-    "journalDate": "2026-09-13T19:01:26",
-    "sagsnr": "GEO-2026-000067",
-    "ansvarligEnhed": "MTM-By og Natur/Klima og Energi/Virksomheder",
-    "dokumenttype": "Indgående",
-    "_department": "MTM-",
-    "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-13"
   }
 ]
