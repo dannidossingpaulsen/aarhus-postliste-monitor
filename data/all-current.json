@@ -1,5 +1,110 @@
 [
   {
+    "id": 384816,
+    "dokumentidentifikation": "GEO-2022-505111/137",
+    "dokumenttitel": "Orientering om opstart af jordflytning - Sverigesgade 3, Hængslet",
+    "dokumentnr": "16360410",
+    "brevdato": "2026-09-03T00:00:00",
+    "journalDate": "2026-09-28T14:38:27",
+    "sagsnr": "GEO-2022-505111",
+    "ansvarligEnhed": "MTM-Forvaltningschef/Natur og Miljø/Jord og Grundvand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-28",
+    "_status": "new"
+  },
+  {
+    "id": 384815,
+    "dokumentidentifikation": "GEO-2025-001188/85",
+    "dokumenttitel": "Fra rådgiver, supp oplysninger til § 8-tilladelse, anlægsarbejde under Kulbroen",
+    "dokumentnr": "16359786",
+    "brevdato": "2026-09-23T00:00:00",
+    "journalDate": "2026-09-28T13:39:37",
+    "sagsnr": "GEO-2025-001188",
+    "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Jord og Grundvand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-28",
+    "_status": "new"
+  },
+  {
+    "id": 384814,
+    "dokumentidentifikation": "GEO-2013-031178/146",
+    "dokumenttitel": "Fra entreprenør, svar vedr § 8-dokumentation, etablering af vaskeplads, Jegstrupvej 96",
+    "dokumentnr": "16359725",
+    "brevdato": "2026-09-25T00:00:00",
+    "journalDate": "2026-09-28T13:32:17",
+    "sagsnr": "GEO-2013-031178",
+    "ansvarligEnhed": "MTM-Forvaltningschef/Natur og Miljø/Jord og Grundvand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-28",
+    "_status": "new"
+  },
+  {
+    "id": 384813,
+    "dokumentidentifikation": "GEO-2013-031178/145",
+    "dokumenttitel": "Til entreprenør, spørgsmål til § 8-dokumentation, etablering af vaskeplads, Jegstrupvej 96",
+    "dokumentnr": "16359717",
+    "brevdato": "2026-09-21T00:00:00",
+    "journalDate": "2026-09-28T13:31:27",
+    "sagsnr": "GEO-2013-031178",
+    "ansvarligEnhed": "MTM-Forvaltningschef/Natur og Miljø/Jord og Grundvand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-28",
+    "_status": "new"
+  },
+  {
+    "id": 384812,
+    "dokumentidentifikation": "GEO-2013-031178/144",
+    "dokumenttitel": "Dialog med jordmodtager, jordbortskaffelse fra vaskeplads, Jegstrupvej 96",
+    "dokumentnr": "16359711",
+    "brevdato": "2026-09-17T00:00:00",
+    "journalDate": "2026-09-28T13:30:33",
+    "sagsnr": "GEO-2013-031178",
+    "ansvarligEnhed": "MTM-Forvaltningschef/Natur og Miljø/Jord og Grundvand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-28",
+    "_status": "new"
+  },
+  {
+    "id": 384811,
+    "dokumentidentifikation": "GEO-2013-033969/489",
+    "dokumenttitel": "Til rådgiver, spørgsmål til § 8-dokumentation, opgradering af gulve i bygning 15, Axel Gruhns Vej 20",
+    "dokumentnr": "16359668",
+    "brevdato": "2026-09-15T00:00:00",
+    "journalDate": "2026-09-28T13:24:11",
+    "sagsnr": "GEO-2013-033969",
+    "ansvarligEnhed": "MTM-Forvaltningschef/Natur og Miljø/Jord og Grundvand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-28",
+    "_status": "new"
+  },
+  {
+    "id": 384810,
+    "dokumentidentifikation": "GEO-2013-033969/488",
+    "dokumenttitel": "Til rådgiver, spørgsmål til § 8-dokumentation, udendørs opbevaringsareal, Axel Gruhns Vej 20",
+    "dokumentnr": "16359656",
+    "brevdato": "2026-09-15T00:00:00",
+    "journalDate": "2026-09-28T13:23:15",
+    "sagsnr": "GEO-2013-033969",
+    "ansvarligEnhed": "MTM-Forvaltningschef/Natur og Miljø/Jord og Grundvand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-28",
+    "_status": "new"
+  },
+  {
     "id": 384745,
     "dokumentidentifikation": "GEO-2013-031155/42",
     "dokumenttitel": "Aftale med entreprenør om opdatering af jordanmeldelser og modtageanlæg, lbnr. 122755, Jens Olsens Vej 13, 8200 Aarhus N",
@@ -11,8 +116,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-28",
-    "_status": "new"
+    "_queried_date": "2026-09-28"
   },
   {
     "id": 384744,
@@ -26,8 +130,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-28",
-    "_status": "new"
+    "_queried_date": "2026-09-28"
   },
   {
     "id": 384743,
@@ -41,8 +144,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-28",
-    "_status": "new"
+    "_queried_date": "2026-09-28"
   },
   {
     "id": 384640,
@@ -112,8 +214,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-25",
-    "_status": "new"
+    "_queried_date": "2026-09-25"
   },
   {
     "id": 384738,
@@ -127,8 +228,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-25",
-    "_status": "new"
+    "_queried_date": "2026-09-25"
   },
   {
     "id": 384644,
@@ -184,8 +284,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-25",
-    "_status": "new"
+    "_queried_date": "2026-09-25"
   },
   {
     "id": 384641,
@@ -608,6 +707,21 @@
     "_queried_date": "2026-09-23"
   },
   {
+    "id": 384805,
+    "dokumentidentifikation": "GEO-2026-006156/8",
+    "dokumenttitel": "Yderligere oplysning til ansøgningen",
+    "dokumentnr": "16344058",
+    "brevdato": "2026-09-18T00:00:00",
+    "journalDate": "2026-09-23T12:20:10",
+    "sagsnr": "GEO-2026-006156",
+    "ansvarligEnhed": "MTM-By og Natur/Byrum/Mobilitet 1",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-23",
+    "_status": "new"
+  },
+  {
     "id": 384601,
     "dokumentidentifikation": "GEO-2021-038341/21",
     "dokumenttitel": "Mail fra projektudvikler, der spørger til status for udkast til LP-forslag mv.",
@@ -648,6 +762,21 @@
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
     "_queried_date": "2026-09-23"
+  },
+  {
+    "id": 384804,
+    "dokumentidentifikation": "GEO-2026-002534/16",
+    "dokumenttitel": "Mailudveksling med landinspektør og høringssvar",
+    "dokumentnr": "16343148",
+    "brevdato": "2026-09-23T00:00:00",
+    "journalDate": "2026-09-23T10:56:20",
+    "sagsnr": "GEO-2026-002534",
+    "ansvarligEnhed": "MTM-By og Natur/Byrum/Mobilitet 1",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-23",
+    "_status": "new"
   },
   {
     "id": 384367,
@@ -1138,6 +1267,21 @@
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
     "_queried_date": "2026-09-21"
+  },
+  {
+    "id": 384791,
+    "dokumentidentifikation": "GEO-2026-002840/15",
+    "dokumenttitel": "SV: Opfølgning HopOnHopOff Aarhus",
+    "dokumentnr": "16335059",
+    "brevdato": "2026-09-21T00:00:00",
+    "journalDate": "2026-09-21T14:16:20",
+    "sagsnr": "GEO-2026-002840",
+    "ansvarligEnhed": "MTM-By og Natur/Byrum/Mobilitet 1",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-21",
+    "_status": "new"
   },
   {
     "id": 384528,
