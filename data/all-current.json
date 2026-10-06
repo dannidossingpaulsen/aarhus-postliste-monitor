@@ -1,5 +1,20 @@
 [
   {
+    "id": 385009,
+    "dokumentidentifikation": "GEO-2020-002442/10",
+    "dokumenttitel": "Henvendelse over støjgener - Café Mellemfolk, Vestergade 69, 8000 Aarhus C 2026",
+    "dokumentnr": "16268679",
+    "brevdato": "2026-09-01T00:00:00",
+    "journalDate": "2026-10-05T14:04:23",
+    "sagsnr": "GEO-2020-002442",
+    "ansvarligEnhed": "MTM-Forvaltningschef/Natur og Miljø/Virksomheder",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-10-05",
+    "_status": "new"
+  },
+  {
     "id": 384986,
     "dokumentidentifikation": "EMN-2024-028839/169",
     "dokumenttitel": "Re: Forslag til afslag - Climate Frontiers",
@@ -11,6 +26,35 @@
     "dokumenttype": "Indgående",
     "_department": "MBA-",
     "_department_name": "Borgmesterens Afdeling",
+    "_queried_date": "2026-10-02"
+  },
+  {
+    "id": 385003,
+    "dokumentidentifikation": "GEO-2019-082777/13",
+    "dokumenttitel": "Jens Juuls Vej 38 - Geoteknisk undersøgelse og supplerende oplysninger",
+    "dokumentnr": "16378499",
+    "brevdato": "2026-10-02T00:00:00",
+    "journalDate": "2026-10-02T14:14:37",
+    "sagsnr": "GEO-2019-082777",
+    "ansvarligEnhed": "MTM-Forvaltningschef/Natur og Miljø/Jord og Grundvand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-10-02",
+    "_status": "new"
+  },
+  {
+    "id": 385002,
+    "dokumentidentifikation": "GEO-2019-082777/11",
+    "dokumenttitel": "Jens Juuls Vej 38 - Analyserapporter - jordprøver",
+    "dokumentnr": "16378464",
+    "brevdato": "2026-10-02T00:00:00",
+    "journalDate": "2026-10-02T14:11:18",
+    "sagsnr": "GEO-2019-082777",
+    "ansvarligEnhed": "MTM-Forvaltningschef/Natur og Miljø/Jord og Grundvand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
     "_queried_date": "2026-10-02",
     "_status": "new"
   },
@@ -23,6 +67,35 @@
     "journalDate": "2026-10-02T13:29:10",
     "sagsnr": "GEO-2020-002442",
     "ansvarligEnhed": "MTM-Forvaltningschef/Natur og Miljø/Virksomheder",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-10-02"
+  },
+  {
+    "id": 385001,
+    "dokumentidentifikation": "GEO-2026-004029/14",
+    "dokumenttitel": "Bemærkninger fra regionen - udkast til afgørelse - Serinehøjen 7",
+    "dokumentnr": "16378019",
+    "brevdato": "2026-10-01T00:00:00",
+    "journalDate": "2026-10-02T13:09:48",
+    "sagsnr": "GEO-2026-004029",
+    "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Jord og Grundvand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-10-02",
+    "_status": "new"
+  },
+  {
+    "id": 385000,
+    "dokumentidentifikation": "GEO-2026-006729/9",
+    "dokumenttitel": "Egernvej 8 - spild - orientering om undersøgelse",
+    "dokumentnr": "16377769",
+    "brevdato": "2026-10-02T00:00:00",
+    "journalDate": "2026-10-02T12:43:27",
+    "sagsnr": "GEO-2026-006729",
+    "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Jord og Grundvand",
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
@@ -41,8 +114,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-10-02",
-    "_status": "new"
+    "_queried_date": "2026-10-02"
   },
   {
     "id": 384985,
@@ -56,8 +128,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-10-02",
-    "_status": "new"
+    "_queried_date": "2026-10-02"
   },
   {
     "id": 384984,
@@ -68,6 +139,20 @@
     "journalDate": "2026-10-02T09:06:18",
     "sagsnr": "GEO-2025-007613",
     "ansvarligEnhed": "MTM-By og Natur/Byliv/Grønne Områder",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-10-02"
+  },
+  {
+    "id": 384999,
+    "dokumentidentifikation": "GEO-2026-003113/18",
+    "dokumenttitel": "Oddervej 249 - Oplysninger om opgravningssted, observationer mv",
+    "dokumentnr": "16375410",
+    "brevdato": "2026-10-01T00:00:00",
+    "journalDate": "2026-10-02T07:44:44",
+    "sagsnr": "GEO-2026-003113",
+    "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Jord og Grundvand",
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
@@ -86,8 +171,7 @@
     "dokumenttype": "Indgående",
     "_department": "MBA-",
     "_department_name": "Borgmesterens Afdeling",
-    "_queried_date": "2026-10-01",
-    "_status": "new"
+    "_queried_date": "2026-10-01"
   },
   {
     "id": 384974,
@@ -101,8 +185,7 @@
     "dokumenttype": "Indgående",
     "_department": "MBA-",
     "_department_name": "Borgmesterens Afdeling",
-    "_queried_date": "2026-10-01",
-    "_status": "new"
+    "_queried_date": "2026-10-01"
   },
   {
     "id": 384941,
@@ -119,6 +202,51 @@
     "_queried_date": "2026-10-01"
   },
   {
+    "id": 384998,
+    "dokumentidentifikation": "GEO-2026-003113/15",
+    "dokumenttitel": "Beskrivelse af håndtering af jord med tagpladestykker - Oddervej 249",
+    "dokumentnr": "16373839",
+    "brevdato": "2026-10-01T00:00:00",
+    "journalDate": "2026-10-01T13:19:59",
+    "sagsnr": "GEO-2026-003113",
+    "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Jord og Grundvand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-10-01",
+    "_status": "new"
+  },
+  {
+    "id": 384997,
+    "dokumentidentifikation": "GEO-2025-007875/56",
+    "dokumenttitel": "Foreløbig tilbagemelding - Ny Tranbjerggårdsvej 20 - håndtering af overskudsjord",
+    "dokumentnr": "16373766",
+    "brevdato": "2026-10-01T00:00:00",
+    "journalDate": "2026-10-01T13:12:57",
+    "sagsnr": "GEO-2025-007875",
+    "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Jord og Grundvand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-10-01",
+    "_status": "new"
+  },
+  {
+    "id": 384996,
+    "dokumentidentifikation": "GEO-2024-191277/228",
+    "dokumenttitel": "Svar fra Randers Kommune - Jordflytning af gruspude fra Banedanmark arbejdsdepot i Aarhus Kommune til Randers Kommune",
+    "dokumentnr": "16373628",
+    "brevdato": "2026-09-30T00:00:00",
+    "journalDate": "2026-10-01T12:56:11",
+    "sagsnr": "GEO-2024-191277",
+    "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Jord og Grundvand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-10-01",
+    "_status": "new"
+  },
+  {
     "id": 384973,
     "dokumentidentifikation": "GEO-2026-007011/5",
     "dokumenttitel": "Re: Kvittering for modtagelse af ansøgning om dispensation til fældning af bevaringsværdig beplantning",
@@ -130,8 +258,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-10-01",
-    "_status": "new"
+    "_queried_date": "2026-10-01"
   },
   {
     "id": 384972,
@@ -145,8 +272,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-10-01",
-    "_status": "new"
+    "_queried_date": "2026-10-01"
   },
   {
     "id": 384971,
@@ -157,6 +283,20 @@
     "journalDate": "2026-10-01T09:52:14",
     "sagsnr": "GEO-2023-002710",
     "ansvarligEnhed": "MTM-Vicedirektør/Byrum/Trafik og Vejdrift",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-10-01"
+  },
+  {
+    "id": 384995,
+    "dokumentidentifikation": "GEO-2026-004682/23",
+    "dokumenttitel": "Status på projektet. Anmeldelse af konstateret forurening på Filippavej 47, Risskov",
+    "dokumentnr": "16371015",
+    "brevdato": "2026-09-30T00:00:00",
+    "journalDate": "2026-10-01T08:18:22",
+    "sagsnr": "GEO-2026-004682",
+    "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Jord og Grundvand",
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
@@ -175,8 +315,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-10-01",
-    "_status": "new"
+    "_queried_date": "2026-10-01"
   },
   {
     "id": 384933,
@@ -288,8 +427,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-30",
-    "_status": "new"
+    "_queried_date": "2026-09-30"
   },
   {
     "id": 384963,
@@ -300,6 +438,20 @@
     "journalDate": "2026-09-30T11:56:55",
     "sagsnr": "GEO-2024-207883",
     "ansvarligEnhed": "MTM-By og Natur/Byliv/Grønne Områder 1",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-30"
+  },
+  {
+    "id": 384992,
+    "dokumentidentifikation": "GEO-2013-034766/84",
+    "dokumenttitel": "§8 Afrapportering - regnvandsbassiner på Edwin Rahrs Vej 81, Brabrand",
+    "dokumentnr": "16367071",
+    "brevdato": "2026-09-22T00:00:00",
+    "journalDate": "2026-09-30T09:54:04",
+    "sagsnr": "GEO-2013-034766",
+    "ansvarligEnhed": "MTM-Forvaltningschef/Natur og Miljø/Jord og Grundvand",
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
@@ -346,8 +498,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-30",
-    "_status": "new"
+    "_queried_date": "2026-09-30"
   },
   {
     "id": 384861,
@@ -378,6 +529,51 @@
     "_queried_date": "2026-09-29"
   },
   {
+    "id": 384991,
+    "dokumentidentifikation": "GEO-2026-002474/27",
+    "dokumenttitel": "Info fra Region Midtjylland. Udgår inden kortlægning. Højlundsparken 91, 8355 Solbjerg",
+    "dokumentnr": "16364230",
+    "brevdato": "2026-09-28T00:00:00",
+    "journalDate": "2026-09-29T13:35:12",
+    "sagsnr": "GEO-2026-002474",
+    "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Jord og Grundvand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-29",
+    "_status": "new"
+  },
+  {
+    "id": 384990,
+    "dokumentidentifikation": "GEO-2026-006933/6",
+    "dokumenttitel": "Info fra Region Midtjylland. Ejendommen er lokaliseret. Vedr. Bushøjvænget 33, 8270 Højbjerg",
+    "dokumentnr": "16364180",
+    "brevdato": "2026-09-28T00:00:00",
+    "journalDate": "2026-09-29T13:30:41",
+    "sagsnr": "GEO-2026-006933",
+    "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Jord og Grundvand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-29",
+    "_status": "new"
+  },
+  {
+    "id": 384989,
+    "dokumentidentifikation": "GEO-2023-005285/56",
+    "dokumenttitel": "Info fra Region Midtjylland. Kortlægning. Gartnervænget 49, 8310 Tranbjerg",
+    "dokumentnr": "16364080",
+    "brevdato": "2026-09-23T00:00:00",
+    "journalDate": "2026-09-29T13:22:13",
+    "sagsnr": "GEO-2023-005285",
+    "ansvarligEnhed": "MTM-Forvaltningschef/Natur og Miljø/Jord og Grundvand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-29",
+    "_status": "new"
+  },
+  {
     "id": 384958,
     "dokumentidentifikation": "GEO-2026-006892/21",
     "dokumenttitel": "29. september 2026: DN har ingen bemærkninger til plejeplanen, den godkendes",
@@ -389,8 +585,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-29",
-    "_status": "new"
+    "_queried_date": "2026-09-29"
   },
   {
     "id": 384860,
@@ -418,8 +613,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-29",
-    "_status": "new"
+    "_queried_date": "2026-09-29"
   },
   {
     "id": 384921,
@@ -462,6 +656,21 @@
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
     "_queried_date": "2026-09-29"
+  },
+  {
+    "id": 384988,
+    "dokumentidentifikation": "GEO-2026-006695/10",
+    "dokumenttitel": "Dialog med regionen, opstart på oprensning af olietanksforurening, Nedergårds Alle 8",
+    "dokumentnr": "16362921",
+    "brevdato": "2026-09-24T00:00:00",
+    "journalDate": "2026-09-29T11:09:12",
+    "sagsnr": "GEO-2026-006695",
+    "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Jord og Grundvand",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-09-29",
+    "_status": "new"
   },
   {
     "id": 384918,
@@ -615,8 +824,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-28",
-    "_status": "new"
+    "_queried_date": "2026-09-28"
   },
   {
     "id": 384950,
@@ -630,8 +838,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-09-28",
-    "_status": "new"
+    "_queried_date": "2026-09-28"
   },
   {
     "id": 384816,
