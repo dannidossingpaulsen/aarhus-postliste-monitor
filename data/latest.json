@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-19T13:51:55.699061+02:00",
+  "generated_at": "2026-10-20T12:49:04.152577+02:00",
   "timezone": "Europe/Copenhagen",
   "window_days": 10,
-  "window_start": "2026-10-10",
-  "window_end": "2026-10-19",
+  "window_start": "2026-10-11",
+  "window_end": "2026-10-20",
   "departments": {
     "MBA-": {
       "name": "Borgmesterens Afdeling",
@@ -12,11 +12,23 @@
     },
     "MTM-": {
       "name": "Teknik og Miljø",
-      "fetched_unique_posts_in_window": 122,
-      "new_or_changed_posts": 5
+      "fetched_unique_posts_in_window": 119,
+      "new_or_changed_posts": 0
     }
   },
   "checked_dates": [
+    {
+      "department": "MBA-",
+      "department_name": "Borgmesterens Afdeling",
+      "date": "2026-10-20",
+      "count": 0
+    },
+    {
+      "department": "MTM-",
+      "department_name": "Teknik og Miljø",
+      "date": "2026-10-20",
+      "count": 0
+    },
     {
       "department": "MBA-",
       "department_name": "Borgmesterens Afdeling",
@@ -124,97 +136,9 @@
       "department_name": "Teknik og Miljø",
       "date": "2026-10-11",
       "count": 0
-    },
-    {
-      "department": "MBA-",
-      "department_name": "Borgmesterens Afdeling",
-      "date": "2026-10-10",
-      "count": 0
-    },
-    {
-      "department": "MTM-",
-      "department_name": "Teknik og Miljø",
-      "date": "2026-10-10",
-      "count": 3
     }
   ],
-  "new_or_changed": [
-    {
-      "id": 385671,
-      "dokumentidentifikation": "GEO-2016-037356/443",
-      "dokumenttitel": "Svar på spørgsmål fra Byggemodnings rådgiver vedr. udretning af vej",
-      "dokumentnr": "16417923",
-      "brevdato": "2026-10-15T00:00:00",
-      "journalDate": "2026-10-16T10:26:27",
-      "sagsnr": "GEO-2016-037356",
-      "ansvarligEnhed": "MTM-By og Natur/Plan/Lokalplan 2",
-      "dokumenttype": "Indgående",
-      "_department": "MTM-",
-      "_department_name": "Teknik og Miljø",
-      "_queried_date": "2026-10-16",
-      "_status": "new"
-    },
-    {
-      "id": 385670,
-      "dokumentidentifikation": "GEO-2026-003484/70",
-      "dokumenttitel": "Henvendelse fra part",
-      "dokumentnr": "16417516",
-      "brevdato": "2026-10-16T00:00:00",
-      "journalDate": "2026-10-16T09:16:49",
-      "sagsnr": "GEO-2026-003484",
-      "ansvarligEnhed": "MTM-By og Natur/Plan/VVM og Landskab",
-      "dokumenttype": "Indgående",
-      "_department": "MTM-",
-      "_department_name": "Teknik og Miljø",
-      "_queried_date": "2026-10-16",
-      "_status": "new"
-    },
-    {
-      "id": 385667,
-      "dokumentidentifikation": "GEO-2026-004819/24",
-      "dokumenttitel": "Østjyllands Brandvæsen har ingen bemærkninger",
-      "dokumentnr": "16416694",
-      "brevdato": "2026-10-15T00:00:00",
-      "journalDate": "2026-10-15T14:28:16",
-      "sagsnr": "GEO-2026-004819",
-      "ansvarligEnhed": "MTM-By og Natur/Plan/Lokalplan 1",
-      "dokumenttype": "Indgående",
-      "_department": "MTM-",
-      "_department_name": "Teknik og Miljø",
-      "_queried_date": "2026-10-15",
-      "_status": "new"
-    },
-    {
-      "id": 385666,
-      "dokumentidentifikation": "GEO-2026-003484/69",
-      "dokumenttitel": "Anmodning, part",
-      "dokumentnr": "16415800",
-      "brevdato": "2026-10-13T00:00:00",
-      "journalDate": "2026-10-15T10:45:37",
-      "sagsnr": "GEO-2026-003484",
-      "ansvarligEnhed": "MTM-By og Natur/Plan/VVM og Landskab",
-      "dokumenttype": "Indgående",
-      "_department": "MTM-",
-      "_department_name": "Teknik og Miljø",
-      "_queried_date": "2026-10-15",
-      "_status": "new"
-    },
-    {
-      "id": 385665,
-      "dokumentidentifikation": "GEO-2016-037356/434",
-      "dokumenttitel": "Opdateret mødereferat fra rådgiver - møde den 12.okt.",
-      "dokumentnr": "16415391",
-      "brevdato": "2026-10-15T00:00:00",
-      "journalDate": "2026-10-15T09:05:19",
-      "sagsnr": "GEO-2016-037356",
-      "ansvarligEnhed": "MTM-By og Natur/Plan/Lokalplan 2",
-      "dokumenttype": "Indgående",
-      "_department": "MTM-",
-      "_department_name": "Teknik og Miljø",
-      "_queried_date": "2026-10-15",
-      "_status": "new"
-    }
-  ],
+  "new_or_changed": [],
   "errors": [],
   "technical_status": "ok"
 }

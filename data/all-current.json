@@ -11,8 +11,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-10-16",
-    "_status": "new"
+    "_queried_date": "2026-10-16"
   },
   {
     "id": 385670,
@@ -26,8 +25,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-10-16",
-    "_status": "new"
+    "_queried_date": "2026-10-16"
   },
   {
     "id": 385657,
@@ -55,8 +53,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-10-15",
-    "_status": "new"
+    "_queried_date": "2026-10-15"
   },
   {
     "id": 385666,
@@ -70,8 +67,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-10-15",
-    "_status": "new"
+    "_queried_date": "2026-10-15"
   },
   {
     "id": 385665,
@@ -85,8 +81,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-10-15",
-    "_status": "new"
+    "_queried_date": "2026-10-15"
   },
   {
     "id": 385617,
@@ -1697,47 +1692,5 @@
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
     "_queried_date": "2026-10-12"
-  },
-  {
-    "id": 385415,
-    "dokumentidentifikation": "GEO-2023-003005/116",
-    "dokumenttitel": "VS: Ansøgning om lokalplanlægning (fra Selvbetjening.aarhuskommune.dk)",
-    "dokumentnr": "16404706",
-    "brevdato": "2026-10-09T00:00:00",
-    "journalDate": "2026-10-10T05:52:14",
-    "sagsnr": "GEO-2023-003005",
-    "ansvarligEnhed": "MTM-Vicedirektør/Byliv/Grønne Områder 1",
-    "dokumenttype": "Indgående",
-    "_department": "MTM-",
-    "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-10-10"
-  },
-  {
-    "id": 385414,
-    "dokumentidentifikation": "GEO-2023-003005/115",
-    "dokumenttitel": "SV: Fuldmagt til ny lokalplan på Egå marina. (23/01976)",
-    "dokumentnr": "16404705",
-    "brevdato": "2026-10-09T17:13:33",
-    "journalDate": "2026-10-10T05:51:35",
-    "sagsnr": "GEO-2023-003005",
-    "ansvarligEnhed": "MTM-Vicedirektør/Byliv/Grønne Områder 1",
-    "dokumenttype": "Indgående",
-    "_department": "MTM-",
-    "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-10-10"
-  },
-  {
-    "id": 385413,
-    "dokumentidentifikation": "GEO-2023-003005/112",
-    "dokumenttitel": "SV: Fuldmagt til ny lokalplan på Egå marina. (23/01976)",
-    "dokumentnr": "16404704",
-    "brevdato": "2026-10-09T13:23:51",
-    "journalDate": "2026-10-10T05:49:55",
-    "sagsnr": "GEO-2023-003005",
-    "ansvarligEnhed": "MTM-Vicedirektør/Byliv/Grønne Områder 1",
-    "dokumenttype": "Indgående",
-    "_department": "MTM-",
-    "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-10-10"
   }
 ]
