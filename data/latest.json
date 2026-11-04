@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-03T15:49:57.472022+01:00",
+  "generated_at": "2026-11-04T16:03:21.911303+01:00",
   "timezone": "Europe/Copenhagen",
   "window_days": 10,
-  "window_start": "2026-10-25",
-  "window_end": "2026-11-03",
+  "window_start": "2026-10-26",
+  "window_end": "2026-11-04",
   "departments": {
     "MBA-": {
       "name": "Borgmesterens Afdeling",
@@ -12,11 +12,23 @@
     },
     "MTM-": {
       "name": "Teknik og Miljø",
-      "fetched_unique_posts_in_window": 77,
+      "fetched_unique_posts_in_window": 78,
       "new_or_changed_posts": 1
     }
   },
   "checked_dates": [
+    {
+      "department": "MBA-",
+      "department_name": "Borgmesterens Afdeling",
+      "date": "2026-11-04",
+      "count": 0
+    },
+    {
+      "department": "MTM-",
+      "department_name": "Teknik og Miljø",
+      "date": "2026-11-04",
+      "count": 0
+    },
     {
       "department": "MBA-",
       "department_name": "Borgmesterens Afdeling",
@@ -123,35 +135,23 @@
       "department": "MTM-",
       "department_name": "Teknik og Miljø",
       "date": "2026-10-26",
-      "count": 23
-    },
-    {
-      "department": "MBA-",
-      "department_name": "Borgmesterens Afdeling",
-      "date": "2026-10-25",
-      "count": 0
-    },
-    {
-      "department": "MTM-",
-      "department_name": "Teknik og Miljø",
-      "date": "2026-10-25",
-      "count": 0
+      "count": 24
     }
   ],
   "new_or_changed": [
     {
-      "id": 386785,
-      "dokumentidentifikation": "GEO-2019-017478/81",
-      "dokumenttitel": "Svar fra Kredsløb vedr. nedgravede affaldscontainere og fortov",
-      "dokumentnr": "16469185",
-      "brevdato": "2026-10-30T00:00:00",
-      "journalDate": "2026-11-01T15:46:01",
-      "sagsnr": "GEO-2019-017478",
-      "ansvarligEnhed": "MTM-Forvaltningschef/Plan/Lokalplanlægning og VVM",
+      "id": 386795,
+      "dokumentidentifikation": "GEO-2024-000307/38",
+      "dokumenttitel": "Approbation 1931. Bygherre beder rådgiver om at kigge på Raundal og Moesbys fremsendte forslag",
+      "dokumentnr": "16445167",
+      "brevdato": "2026-10-21T00:00:00",
+      "journalDate": "2026-10-26T09:38:05",
+      "sagsnr": "GEO-2024-000307",
+      "ansvarligEnhed": "MTM-Vicedirektør/Byrum/Byggemodning og Bydesign",
       "dokumenttype": "Indgående",
       "_department": "MTM-",
       "_department_name": "Teknik og Miljø",
-      "_queried_date": "2026-11-01",
+      "_queried_date": "2026-10-26",
       "_status": "new"
     }
   ],

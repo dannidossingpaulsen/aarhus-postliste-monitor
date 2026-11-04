@@ -11,8 +11,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-01",
-    "_status": "new"
+    "_queried_date": "2026-11-01"
   },
   {
     "id": 386773,
@@ -1105,6 +1104,21 @@
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
     "_queried_date": "2026-10-26"
+  },
+  {
+    "id": 386795,
+    "dokumentidentifikation": "GEO-2024-000307/38",
+    "dokumenttitel": "Approbation 1931. Bygherre beder rådgiver om at kigge på Raundal og Moesbys fremsendte forslag",
+    "dokumentnr": "16445167",
+    "brevdato": "2026-10-21T00:00:00",
+    "journalDate": "2026-10-26T09:38:05",
+    "sagsnr": "GEO-2024-000307",
+    "ansvarligEnhed": "MTM-Vicedirektør/Byrum/Byggemodning og Bydesign",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-10-26",
+    "_status": "new"
   },
   {
     "id": 386501,
