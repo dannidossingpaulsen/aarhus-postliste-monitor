@@ -1,25 +1,37 @@
 {
-  "generated_at": "2026-11-04T16:03:21.911303+01:00",
+  "generated_at": "2026-11-05T16:08:30.482561+01:00",
   "timezone": "Europe/Copenhagen",
   "window_days": 10,
-  "window_start": "2026-10-26",
-  "window_end": "2026-11-04",
+  "window_start": "2026-10-27",
+  "window_end": "2026-11-05",
   "departments": {
     "MBA-": {
       "name": "Borgmesterens Afdeling",
-      "fetched_unique_posts_in_window": 10,
+      "fetched_unique_posts_in_window": 6,
       "new_or_changed_posts": 0
     },
     "MTM-": {
       "name": "Teknik og Miljø",
-      "fetched_unique_posts_in_window": 78,
-      "new_or_changed_posts": 1
+      "fetched_unique_posts_in_window": 74,
+      "new_or_changed_posts": 20
     }
   },
   "checked_dates": [
     {
       "department": "MBA-",
       "department_name": "Borgmesterens Afdeling",
+      "date": "2026-11-05",
+      "count": 0
+    },
+    {
+      "department": "MTM-",
+      "department_name": "Teknik og Miljø",
+      "date": "2026-11-05",
+      "count": 0
+    },
+    {
+      "department": "MBA-",
+      "department_name": "Borgmesterens Afdeling",
       "date": "2026-11-04",
       "count": 0
     },
@@ -27,7 +39,7 @@
       "department": "MTM-",
       "department_name": "Teknik og Miljø",
       "date": "2026-11-04",
-      "count": 0
+      "count": 1
     },
     {
       "department": "MBA-",
@@ -51,7 +63,7 @@
       "department": "MTM-",
       "department_name": "Teknik og Miljø",
       "date": "2026-11-02",
-      "count": 0
+      "count": 3
     },
     {
       "department": "MBA-",
@@ -87,7 +99,7 @@
       "department": "MTM-",
       "department_name": "Teknik og Miljø",
       "date": "2026-10-30",
-      "count": 10
+      "count": 13
     },
     {
       "department": "MBA-",
@@ -99,7 +111,7 @@
       "department": "MTM-",
       "department_name": "Teknik og Miljø",
       "date": "2026-10-29",
-      "count": 15
+      "count": 22
     },
     {
       "department": "MBA-",
@@ -111,7 +123,7 @@
       "department": "MTM-",
       "department_name": "Teknik og Miljø",
       "date": "2026-10-28",
-      "count": 14
+      "count": 20
     },
     {
       "department": "MBA-",
@@ -124,34 +136,307 @@
       "department_name": "Teknik og Miljø",
       "date": "2026-10-27",
       "count": 14
-    },
-    {
-      "department": "MBA-",
-      "department_name": "Borgmesterens Afdeling",
-      "date": "2026-10-26",
-      "count": 4
-    },
-    {
-      "department": "MTM-",
-      "department_name": "Teknik og Miljø",
-      "date": "2026-10-26",
-      "count": 24
     }
   ],
   "new_or_changed": [
     {
-      "id": 386795,
-      "dokumentidentifikation": "GEO-2024-000307/38",
-      "dokumenttitel": "Approbation 1931. Bygherre beder rådgiver om at kigge på Raundal og Moesbys fremsendte forslag",
-      "dokumentnr": "16445167",
-      "brevdato": "2026-10-21T00:00:00",
-      "journalDate": "2026-10-26T09:38:05",
-      "sagsnr": "GEO-2024-000307",
-      "ansvarligEnhed": "MTM-Vicedirektør/Byrum/Byggemodning og Bydesign",
+      "id": 386866,
+      "dokumentidentifikation": "EMN-2026-012562/1",
+      "dokumenttitel": "Brobjerg Parken grund",
+      "dokumentnr": "16480951",
+      "brevdato": "2026-11-04T00:00:00",
+      "journalDate": "2026-11-04T09:38:33",
+      "sagsnr": "EMN-2026-012562",
+      "ansvarligEnhed": "MTM-Fælles Stabe/Rådmandssekretariatet",
       "dokumenttype": "Indgående",
       "_department": "MTM-",
       "_department_name": "Teknik og Miljø",
-      "_queried_date": "2026-10-26",
+      "_queried_date": "2026-11-04",
+      "_status": "new"
+    },
+    {
+      "id": 386853,
+      "dokumentidentifikation": "EMN-2026-012494/1",
+      "dokumenttitel": "Vedr. de planlagte trafikøer i Hasle og Åbyhøj",
+      "dokumentnr": "16473331",
+      "brevdato": "2026-11-02T00:00:00",
+      "journalDate": "2026-11-02T14:36:29",
+      "sagsnr": "EMN-2026-012494",
+      "ansvarligEnhed": "MTM-Fælles Stabe/Rådmandssekretariatet",
+      "dokumenttype": "Indgående",
+      "_department": "MTM-",
+      "_department_name": "Teknik og Miljø",
+      "_queried_date": "2026-11-02",
+      "_status": "new"
+    },
+    {
+      "id": 386851,
+      "dokumentidentifikation": "GEO-2026-008140/2",
+      "dokumenttitel": "Gadebelysning blænder, Solvejen 20",
+      "dokumentnr": "16472436",
+      "brevdato": "2026-10-30T00:00:00",
+      "journalDate": "2026-11-02T13:12:26",
+      "sagsnr": "GEO-2026-008140",
+      "ansvarligEnhed": "MTM-By og Natur/Byrum/Trafik og Vejdrift/Trafik",
+      "dokumenttype": "Indgående",
+      "_department": "MTM-",
+      "_department_name": "Teknik og Miljø",
+      "_queried_date": "2026-11-02",
+      "_status": "new"
+    },
+    {
+      "id": 386850,
+      "dokumentidentifikation": "EMN-2026-012459/1",
+      "dokumenttitel": "Til rådmanden for Teknik og Miljø i Aarhus vedr. sagsnr. 103769300T og S2026-25885",
+      "dokumentnr": "16471490",
+      "brevdato": "2026-11-02T00:00:00",
+      "journalDate": "2026-11-02T11:28:15",
+      "sagsnr": "EMN-2026-012459",
+      "ansvarligEnhed": "MTM-Fælles Stabe/Rådmandssekretariatet",
+      "dokumenttype": "Indgående",
+      "_department": "MTM-",
+      "_department_name": "Teknik og Miljø",
+      "_queried_date": "2026-11-02",
+      "_status": "new"
+    },
+    {
+      "id": 386840,
+      "dokumentidentifikation": "EMN-2026-012387/1",
+      "dokumenttitel": "Hasle trafikø",
+      "dokumentnr": "16465178",
+      "brevdato": "2026-10-30T00:00:00",
+      "journalDate": "2026-10-30T10:20:39",
+      "sagsnr": "EMN-2026-012387",
+      "ansvarligEnhed": "MTM-Fælles Stabe/Rådmandssekretariatet",
+      "dokumenttype": "Indgående",
+      "_department": "MTM-",
+      "_department_name": "Teknik og Miljø",
+      "_queried_date": "2026-10-30",
+      "_status": "new"
+    },
+    {
+      "id": 386839,
+      "dokumentidentifikation": "EMN-2026-012384/1",
+      "dokumenttitel": "Slut med kontrol af byens cafeer",
+      "dokumentnr": "16465106",
+      "brevdato": "2026-10-30T00:00:00",
+      "journalDate": "2026-10-30T10:14:41",
+      "sagsnr": "EMN-2026-012384",
+      "ansvarligEnhed": "MTM-Fælles Stabe/Rådmandssekretariatet",
+      "dokumenttype": "Indgående",
+      "_department": "MTM-",
+      "_department_name": "Teknik og Miljø",
+      "_queried_date": "2026-10-30",
+      "_status": "new"
+    },
+    {
+      "id": 386838,
+      "dokumentidentifikation": "EMN-2026-012382/1",
+      "dokumenttitel": "Klage vedr. Asmusvej 1 og 1A, 8530 Hjortshøj",
+      "dokumentnr": "16464986",
+      "brevdato": "2026-10-30T00:00:00",
+      "journalDate": "2026-10-30T10:04:21",
+      "sagsnr": "EMN-2026-012382",
+      "ansvarligEnhed": "MTM-Fælles Stabe/Rådmandssekretariatet",
+      "dokumenttype": "Indgående",
+      "_department": "MTM-",
+      "_department_name": "Teknik og Miljø",
+      "_queried_date": "2026-10-30",
+      "_status": "new"
+    },
+    {
+      "id": 386829,
+      "dokumentidentifikation": "GEO-2017-010687/36",
+      "dokumenttitel": "Justering af lydniveau ved trafiklys ved Banegården om natten - krydset Banegårdsplads/Park Allé/Bruunsgade",
+      "dokumentnr": "16461262",
+      "brevdato": "2026-10-22T00:00:00",
+      "journalDate": "2026-10-29T12:49:16",
+      "sagsnr": "GEO-2017-010687",
+      "ansvarligEnhed": "MTM-Vicedirektør/Byrum/Trafik og Vejdrift",
+      "dokumenttype": "Indgående",
+      "_department": "MTM-",
+      "_department_name": "Teknik og Miljø",
+      "_queried_date": "2026-10-29",
+      "_status": "new"
+    },
+    {
+      "id": 386827,
+      "dokumentidentifikation": "GEO-2026-008041/1",
+      "dokumenttitel": "Forespørgsel om belysning på Klokkeskovvej",
+      "dokumentnr": "16460392",
+      "brevdato": "2026-08-26T00:00:00",
+      "journalDate": "2026-10-29T11:06:31",
+      "sagsnr": "GEO-2026-008041",
+      "ansvarligEnhed": "MTM-By og Natur/Byrum/Trafik og Vejdrift/Trafik",
+      "dokumenttype": "Indgående",
+      "_department": "MTM-",
+      "_department_name": "Teknik og Miljø",
+      "_queried_date": "2026-10-29",
+      "_status": "new"
+    },
+    {
+      "id": 386826,
+      "dokumentidentifikation": "GEO-2018-001335/13",
+      "dokumenttitel": "Auras vurdering vedr. flytning af lygtepæl på Bækkelundsvej 51, 8240 Risskov",
+      "dokumentnr": "16460114",
+      "brevdato": "2026-10-09T00:00:00",
+      "journalDate": "2026-10-29T10:41:42",
+      "sagsnr": "GEO-2018-001335",
+      "ansvarligEnhed": "MTM-Vicedirektør/Byrum/Trafik og Vejdrift",
+      "dokumenttype": "Indgående",
+      "_department": "MTM-",
+      "_department_name": "Teknik og Miljø",
+      "_queried_date": "2026-10-29",
+      "_status": "new"
+    },
+    {
+      "id": 386825,
+      "dokumentidentifikation": "GEO-2018-001335/9",
+      "dokumenttitel": "Anmodning om flytning af lygtepæl på Bækkelundsvej 51, 8240 Risskov",
+      "dokumentnr": "16460064",
+      "brevdato": "2026-10-04T00:00:00",
+      "journalDate": "2026-10-29T10:38:38",
+      "sagsnr": "GEO-2018-001335",
+      "ansvarligEnhed": "MTM-Vicedirektør/Byrum/Trafik og Vejdrift",
+      "dokumenttype": "Indgående",
+      "_department": "MTM-",
+      "_department_name": "Teknik og Miljø",
+      "_queried_date": "2026-10-29",
+      "_status": "new"
+    },
+    {
+      "id": 386824,
+      "dokumentidentifikation": "GEO-2020-007091/13",
+      "dokumenttitel": "Svar - Accept - Flytning af gadelampe, Tornskadevej 18",
+      "dokumentnr": "16460016",
+      "brevdato": "2026-10-08T00:00:00",
+      "journalDate": "2026-10-29T10:34:01",
+      "sagsnr": "GEO-2020-007091",
+      "ansvarligEnhed": "MTM-Vicedirektør/Byrum/Trafik og Vejdrift",
+      "dokumenttype": "Indgående",
+      "_department": "MTM-",
+      "_department_name": "Teknik og Miljø",
+      "_queried_date": "2026-10-29",
+      "_status": "new"
+    },
+    {
+      "id": 386823,
+      "dokumentidentifikation": "GEO-2018-002004/7",
+      "dokumenttitel": "Status på BorgerTip I228766 - Manglende Gadelys på Skjoldhøjvej",
+      "dokumentnr": "16459887",
+      "brevdato": "2026-10-25T00:00:00",
+      "journalDate": "2026-10-29T10:17:00",
+      "sagsnr": "GEO-2018-002004",
+      "ansvarligEnhed": "MTM-Vicedirektør/Byrum/Trafik og Vejdrift",
+      "dokumenttype": "Indgående",
+      "_department": "MTM-",
+      "_department_name": "Teknik og Miljø",
+      "_queried_date": "2026-10-29",
+      "_status": "new"
+    },
+    {
+      "id": 386822,
+      "dokumentidentifikation": "GEO-2026-007892/13",
+      "dokumenttitel": "Naboaccept ift. flytning af belysningsmast, Atlasvej 3B",
+      "dokumentnr": "16459428",
+      "brevdato": "2026-10-27T00:00:00",
+      "journalDate": "2026-10-29T09:32:31",
+      "sagsnr": "GEO-2026-007892",
+      "ansvarligEnhed": "MTM-By og Natur/Byrum/Trafik og Vejdrift/Trafik",
+      "dokumenttype": "Indgående",
+      "_department": "MTM-",
+      "_department_name": "Teknik og Miljø",
+      "_queried_date": "2026-10-29",
+      "_status": "new"
+    },
+    {
+      "id": 386818,
+      "dokumentidentifikation": "EMN-2026-012264/1",
+      "dokumenttitel": "International Day Nursery og pladsanvisningen",
+      "dokumentnr": "16455060",
+      "brevdato": "2026-10-28T00:00:00",
+      "journalDate": "2026-10-28T10:58:57",
+      "sagsnr": "EMN-2026-012264",
+      "ansvarligEnhed": "MTM-Fælles Stabe/Rådmandssekretariatet",
+      "dokumenttype": "Indgående",
+      "_department": "MTM-",
+      "_department_name": "Teknik og Miljø",
+      "_queried_date": "2026-10-28",
+      "_status": "new"
+    },
+    {
+      "id": 386817,
+      "dokumentidentifikation": "EMN-2026-012261/1",
+      "dokumenttitel": "Brev til Rådmand Nicolaj Bang vedr. Trafikplan for Risskov Enge",
+      "dokumentnr": "16454937",
+      "brevdato": "2026-10-28T00:00:00",
+      "journalDate": "2026-10-28T10:50:51",
+      "sagsnr": "EMN-2026-012261",
+      "ansvarligEnhed": "MTM-Fælles Stabe/Rådmandssekretariatet",
+      "dokumenttype": "Indgående",
+      "_department": "MTM-",
+      "_department_name": "Teknik og Miljø",
+      "_queried_date": "2026-10-28",
+      "_status": "new"
+    },
+    {
+      "id": 386816,
+      "dokumentidentifikation": "EMN-2026-012259/1",
+      "dokumenttitel": "VRG  Tak for sidst - politikermøde med GVF",
+      "dokumentnr": "16454840",
+      "brevdato": "2026-10-28T00:00:00",
+      "journalDate": "2026-10-28T10:43:10",
+      "sagsnr": "EMN-2026-012259",
+      "ansvarligEnhed": "MTM-Fælles Stabe/Rådmandssekretariatet",
+      "dokumenttype": "Indgående",
+      "_department": "MTM-",
+      "_department_name": "Teknik og Miljø",
+      "_queried_date": "2026-10-28",
+      "_status": "new"
+    },
+    {
+      "id": 386815,
+      "dokumentidentifikation": "EMN-2026-012257/1",
+      "dokumenttitel": "Trafikale udfordringer",
+      "dokumentnr": "16454620",
+      "brevdato": "2026-10-28T00:00:00",
+      "journalDate": "2026-10-28T10:30:41",
+      "sagsnr": "EMN-2026-012257",
+      "ansvarligEnhed": "MTM-Fælles Stabe/Rådmandssekretariatet",
+      "dokumenttype": "Indgående",
+      "_department": "MTM-",
+      "_department_name": "Teknik og Miljø",
+      "_queried_date": "2026-10-28",
+      "_status": "new"
+    },
+    {
+      "id": 386814,
+      "dokumentidentifikation": "EMN-2026-012249/1",
+      "dokumenttitel": "Vedr. af- og pålæsning af gods i Hjortensgade",
+      "dokumentnr": "16454359",
+      "brevdato": "2026-10-28T00:00:00",
+      "journalDate": "2026-10-28T10:17:00",
+      "sagsnr": "EMN-2026-012249",
+      "ansvarligEnhed": "MTM-Fælles Stabe/Rådmandssekretariatet",
+      "dokumenttype": "Indgående",
+      "_department": "MTM-",
+      "_department_name": "Teknik og Miljø",
+      "_queried_date": "2026-10-28",
+      "_status": "new"
+    },
+    {
+      "id": 386813,
+      "dokumentidentifikation": "EMN-2026-010570/12",
+      "dokumenttitel": "Ny tidsplan for overtagelse af Den Internationale Vuggestue",
+      "dokumentnr": "16454206",
+      "brevdato": "2026-10-28T00:00:00",
+      "journalDate": "2026-10-28T09:55:31",
+      "sagsnr": "EMN-2026-010570",
+      "ansvarligEnhed": "MTM-Fælles Stabe/Rådmandssekretariatet",
+      "dokumenttype": "Indgående",
+      "_department": "MTM-",
+      "_department_name": "Teknik og Miljø",
+      "_queried_date": "2026-10-28",
       "_status": "new"
     }
   ],
