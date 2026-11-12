@@ -1,5 +1,20 @@
 [
   {
+    "id": 387342,
+    "dokumentidentifikation": "GEO-2026-000622/31",
+    "dokumenttitel": "Pilevangen - afd. 30 Molokker",
+    "dokumentnr": "16508368",
+    "brevdato": "2026-11-11T00:00:00",
+    "journalDate": "2026-11-11T08:06:53",
+    "sagsnr": "GEO-2026-000622",
+    "ansvarligEnhed": "MTM-By og Natur/Byrum/Trafik og Vejdrift/Vejmyndighed",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-11-11",
+    "_status": "new"
+  },
+  {
     "id": 387311,
     "dokumentidentifikation": "EMN-2026-000073/298",
     "dokumenttitel": "Meningstilkendegivelse til Aarhus Byråd: Bedre og bredere cykelstier contra 290 mio.kr til Århus lufthavn",
@@ -11,8 +26,7 @@
     "dokumenttype": "Indgående",
     "_department": "MBA-",
     "_department_name": "Borgmesterens Afdeling",
-    "_queried_date": "2026-11-10",
-    "_status": "new"
+    "_queried_date": "2026-11-10"
   },
   {
     "id": 387301,
@@ -26,8 +40,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-10",
-    "_status": "new"
+    "_queried_date": "2026-11-10"
   },
   {
     "id": 387302,
@@ -41,8 +54,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-10",
-    "_status": "new"
+    "_queried_date": "2026-11-10"
   },
   {
     "id": 387303,
@@ -56,8 +68,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-10",
-    "_status": "new"
+    "_queried_date": "2026-11-10"
   },
   {
     "id": 387304,
@@ -71,8 +82,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-10",
-    "_status": "new"
+    "_queried_date": "2026-11-10"
   },
   {
     "id": 387305,
@@ -86,8 +96,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-10",
-    "_status": "new"
+    "_queried_date": "2026-11-10"
   },
   {
     "id": 387306,
@@ -101,8 +110,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-10",
-    "_status": "new"
+    "_queried_date": "2026-11-10"
   },
   {
     "id": 387307,
@@ -116,8 +124,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-10",
-    "_status": "new"
+    "_queried_date": "2026-11-10"
   },
   {
     "id": 387308,
@@ -131,7 +138,21 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-10",
+    "_queried_date": "2026-11-10"
+  },
+  {
+    "id": 387335,
+    "dokumentidentifikation": "EMN-2026-012774/1",
+    "dokumenttitel": "Off. trafik Skæring",
+    "dokumentnr": "16499440",
+    "brevdato": "2026-11-09T00:00:00",
+    "journalDate": "2026-11-09T13:18:43",
+    "sagsnr": "EMN-2026-012774",
+    "ansvarligEnhed": "MTM-Fælles Stabe/Rådmandssekretariatet",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-11-09",
     "_status": "new"
   },
   {
@@ -569,6 +590,21 @@
     "_queried_date": "2026-11-04"
   },
   {
+    "id": 387327,
+    "dokumentidentifikation": "EMN-2026-012603/1",
+    "dokumenttitel": "Kommunal sagsbehandling vedrørende udvidelse af Plejehjemmet Kløvervangen",
+    "dokumentnr": "16484416",
+    "brevdato": "2026-11-04T00:00:00",
+    "journalDate": "2026-11-04T14:49:18",
+    "sagsnr": "EMN-2026-012603",
+    "ansvarligEnhed": "MTM-Fælles Stabe/Rådmandssekretariatet",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-11-04",
+    "_status": "new"
+  },
+  {
     "id": 387106,
     "dokumentidentifikation": "GEO-2026-007794/11",
     "dokumenttitel": "Uddybning af ændringer + forklaring analysepakker",
@@ -807,6 +843,21 @@
     "_queried_date": "2026-11-04"
   },
   {
+    "id": 387326,
+    "dokumentidentifikation": "EMN-2026-012595/1",
+    "dokumenttitel": "Vestergade/Vesterport/Vesterbro Torv - Manglende skiltning?",
+    "dokumentnr": "16483764",
+    "brevdato": "2026-11-04T00:00:00",
+    "journalDate": "2026-11-04T13:43:47",
+    "sagsnr": "EMN-2026-012595",
+    "ansvarligEnhed": "MTM-Fælles Stabe/Rådmandssekretariatet",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-11-04",
+    "_status": "new"
+  },
+  {
     "id": 387248,
     "dokumentidentifikation": "GEO-2026-007272/2",
     "dokumenttitel": "Fortov Hjelmagervej Løgten",
@@ -933,6 +984,21 @@
     "_queried_date": "2026-11-04"
   },
   {
+    "id": 387325,
+    "dokumentidentifikation": "EMN-2026-012586/1",
+    "dokumenttitel": "2026.11.01 brev til politiker",
+    "dokumentnr": "16483014",
+    "brevdato": "2026-11-04T12:00:05",
+    "journalDate": "2026-11-04T12:50:12",
+    "sagsnr": "EMN-2026-012586",
+    "ansvarligEnhed": "MTM-Fælles Stabe/Rådmandssekretariatet",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-11-04",
+    "_status": "new"
+  },
+  {
     "id": 387084,
     "dokumentidentifikation": "GEO-2018-012090/53",
     "dokumenttitel": "Sletholmsvej 9 og 11 - Opfølgende vandprøve - November 2026",
@@ -959,6 +1025,36 @@
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
     "_queried_date": "2026-11-04"
+  },
+  {
+    "id": 387324,
+    "dokumentidentifikation": "EMN-2026-012580/1",
+    "dokumenttitel": "Forslag om udeservering.",
+    "dokumentnr": "16482488",
+    "brevdato": "2026-11-04T00:00:00",
+    "journalDate": "2026-11-04T11:48:54",
+    "sagsnr": "EMN-2026-012580",
+    "ansvarligEnhed": "MTM-Fælles Stabe/Rådmandssekretariatet",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-11-04",
+    "_status": "new"
+  },
+  {
+    "id": 387323,
+    "dokumentidentifikation": "EMN-2026-012578/1",
+    "dokumenttitel": "Tilstskolevej",
+    "dokumentnr": "16482394",
+    "brevdato": "2026-11-04T00:00:00",
+    "journalDate": "2026-11-04T11:39:58",
+    "sagsnr": "EMN-2026-012578",
+    "ansvarligEnhed": "MTM-Fælles Stabe/Rådmandssekretariatet",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-11-04",
+    "_status": "new"
   },
   {
     "id": 387082,
@@ -1575,131 +1671,5 @@
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
     "_queried_date": "2026-11-03"
-  },
-  {
-    "id": 387202,
-    "dokumentidentifikation": "EMN-2026-000073/295",
-    "dokumenttitel": "Meningstilkendegivelse til Aarhus Byråd: Alvorlig procesrisiko ved endelig vedtagelse af Lokalplan 1165 (Frydenlund) på onsdag",
-    "dokumentnr": "16469622",
-    "brevdato": "2026-11-01T17:37:34",
-    "journalDate": "2026-11-02T08:37:27",
-    "sagsnr": "EMN-2026-000073",
-    "ansvarligEnhed": "MBA-Byråd og Jura/Byrådsservice og Jura",
-    "dokumenttype": "Indgående",
-    "_department": "MBA-",
-    "_department_name": "Borgmesterens Afdeling",
-    "_queried_date": "2026-11-02"
-  },
-  {
-    "id": 387201,
-    "dokumentidentifikation": "EMN-2026-000073/293",
-    "dokumenttitel": "Meningstilkendegivelse til Aarhus Byråd: Lokalplan 1165 Frydenlunds Centret - indsigelse mod manglende vejadgang til delområde II",
-    "dokumentnr": "16469614",
-    "brevdato": "2026-11-01T15:35:46",
-    "journalDate": "2026-11-02T08:36:56",
-    "sagsnr": "EMN-2026-000073",
-    "ansvarligEnhed": "MBA-Byråd og Jura/Byrådsservice og Jura",
-    "dokumenttype": "Indgående",
-    "_department": "MBA-",
-    "_department_name": "Borgmesterens Afdeling",
-    "_queried_date": "2026-11-02"
-  },
-  {
-    "id": 386853,
-    "dokumentidentifikation": "EMN-2026-012494/1",
-    "dokumenttitel": "Vedr. de planlagte trafikøer i Hasle og Åbyhøj",
-    "dokumentnr": "16473331",
-    "brevdato": "2026-11-02T00:00:00",
-    "journalDate": "2026-11-02T14:36:29",
-    "sagsnr": "EMN-2026-012494",
-    "ansvarligEnhed": "MTM-Fælles Stabe/Rådmandssekretariatet",
-    "dokumenttype": "Indgående",
-    "_department": "MTM-",
-    "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-02"
-  },
-  {
-    "id": 386998,
-    "dokumentidentifikation": "GEO-2026-002918/28",
-    "dokumenttitel": "Om laboratorier og analyser",
-    "dokumentnr": "16473117",
-    "brevdato": "2026-11-02T00:00:00",
-    "journalDate": "2026-11-02T14:16:54",
-    "sagsnr": "GEO-2026-002918",
-    "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Vand",
-    "dokumenttype": "Indgående",
-    "_department": "MTM-",
-    "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-02"
-  },
-  {
-    "id": 386851,
-    "dokumentidentifikation": "GEO-2026-008140/2",
-    "dokumenttitel": "Gadebelysning blænder, Solvejen 20",
-    "dokumentnr": "16472436",
-    "brevdato": "2026-10-30T00:00:00",
-    "journalDate": "2026-11-02T13:12:26",
-    "sagsnr": "GEO-2026-008140",
-    "ansvarligEnhed": "MTM-By og Natur/Byrum/Trafik og Vejdrift/Trafik",
-    "dokumenttype": "Indgående",
-    "_department": "MTM-",
-    "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-02"
-  },
-  {
-    "id": 386997,
-    "dokumentidentifikation": "GEO-2025-000717/252",
-    "dokumenttitel": "SV: Faktuel fej i behovsnotatet",
-    "dokumentnr": "16471784",
-    "brevdato": "2026-10-30T00:00:00",
-    "journalDate": "2026-11-02T12:00:57",
-    "sagsnr": "GEO-2025-000717",
-    "ansvarligEnhed": "MTM-By og Natur/Plan og Byggeri/Plan og VVM 2",
-    "dokumenttype": "Indgående",
-    "_department": "MTM-",
-    "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-02"
-  },
-  {
-    "id": 386850,
-    "dokumentidentifikation": "EMN-2026-012459/1",
-    "dokumenttitel": "Til rådmanden for Teknik og Miljø i Aarhus vedr. sagsnr. 103769300T og S2026-25885",
-    "dokumentnr": "16471490",
-    "brevdato": "2026-11-02T00:00:00",
-    "journalDate": "2026-11-02T11:28:15",
-    "sagsnr": "EMN-2026-012459",
-    "ansvarligEnhed": "MTM-Fælles Stabe/Rådmandssekretariatet",
-    "dokumenttype": "Indgående",
-    "_department": "MTM-",
-    "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-02"
-  },
-  {
-    "id": 386996,
-    "dokumentidentifikation": "GEO-2026-008125/1",
-    "dokumenttitel": "Mart.nr. 27b Østerlavet, Malling. Henvend. vedr. spærring og oppløjning af sti",
-    "dokumentnr": "16470793",
-    "brevdato": "2026-10-29T00:00:00",
-    "journalDate": "2026-11-02T10:25:27",
-    "sagsnr": "GEO-2026-008125",
-    "ansvarligEnhed": "MTM-By og Natur/Natur og Miljø/Natur",
-    "dokumenttype": "Indgående",
-    "_department": "MTM-",
-    "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-02"
-  },
-  {
-    "id": 387200,
-    "dokumentidentifikation": "GEO-2026-008082/3",
-    "dokumenttitel": "Sv: Risskov , ønske om beskæring af skovbryn ved Rishøjvej",
-    "dokumentnr": "16469577",
-    "brevdato": "2026-11-01T00:00:00",
-    "journalDate": "2026-11-02T08:31:07",
-    "sagsnr": "GEO-2026-008082",
-    "ansvarligEnhed": "MTM-By og Natur/Byliv/Grønne Områder",
-    "dokumenttype": "Indgående",
-    "_department": "MTM-",
-    "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-02"
   }
 ]
