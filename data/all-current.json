@@ -1,5 +1,125 @@
 [
   {
+    "id": 387845,
+    "dokumentidentifikation": "EMN-2026-012906/6",
+    "dokumenttitel": "Vindmøller ved Vosnæs - Støj",
+    "dokumentnr": "16530194",
+    "brevdato": "2026-11-16T00:00:00",
+    "journalDate": "2026-11-16T10:23:49",
+    "sagsnr": "EMN-2026-012906",
+    "ansvarligEnhed": "MBA-Sekretariat, Erhverv og Organisation/Sekretariat, Projekt og Analyse/Sekretariat BA",
+    "dokumenttype": "Indgående",
+    "_department": "MBA-",
+    "_department_name": "Borgmesterens Afdeling",
+    "_queried_date": "2026-11-16",
+    "_status": "new"
+  },
+  {
+    "id": 387841,
+    "dokumentidentifikation": "EMN-2026-000070/57",
+    "dokumenttitel": "Evaluering af Klub Fristedet",
+    "dokumentnr": "16529301",
+    "brevdato": "2026-11-14T00:00:00",
+    "journalDate": "2026-11-16T09:26:31",
+    "sagsnr": "EMN-2026-000070",
+    "ansvarligEnhed": "MBA-Sekretariat, Erhverv og Organisation/Sekretariat, Projekt og Analyse/Sekretariat BA",
+    "dokumenttype": "Indgående",
+    "_department": "MBA-",
+    "_department_name": "Borgmesterens Afdeling",
+    "_queried_date": "2026-11-16",
+    "_status": "new"
+  },
+  {
+    "id": 387846,
+    "dokumentidentifikation": "GEO-2025-000707/61",
+    "dokumenttitel": "Rapport AR-26-CG-26107646-01 vedr. Elysium Float - Floatpod att: Lars Brian Mortensen",
+    "dokumentnr": "16531104",
+    "brevdato": "2026-11-15T09:45:35",
+    "journalDate": "2026-11-16T11:17:22",
+    "sagsnr": "GEO-2025-000707",
+    "ansvarligEnhed": "MTM-By og Natur/Klima og Energi/Virksomheder",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-11-16",
+    "_status": "new"
+  },
+  {
+    "id": 387844,
+    "dokumentidentifikation": "GEO-2024-001627/24",
+    "dokumenttitel": "Henvendelse vedr. vejarbejde, adgangsforhold og økonomiske tab, Bar'ista, Nørre Allé, 8000 Aarhus C 2026",
+    "dokumentnr": "16529512",
+    "brevdato": "2026-11-13T00:00:00",
+    "journalDate": "2026-11-16T09:44:48",
+    "sagsnr": "GEO-2024-001627",
+    "ansvarligEnhed": "MTM-Forvaltningschef/Klima og Energi/Virksomheder",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-11-16",
+    "_status": "new"
+  },
+  {
+    "id": 387843,
+    "dokumentidentifikation": "GEO-2026-007273/30",
+    "dokumenttitel": "Jordvarmetilladelse, Estrupvej 1",
+    "dokumentnr": "16529386",
+    "brevdato": "2026-11-11T00:00:00",
+    "journalDate": "2026-11-16T09:35:04",
+    "sagsnr": "GEO-2026-007273",
+    "ansvarligEnhed": "MTM-By og Natur/Klima og Energi/Virksomheder",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-11-16",
+    "_status": "new"
+  },
+  {
+    "id": 387842,
+    "dokumentidentifikation": "GEO-2013-033013/178",
+    "dokumenttitel": "Henvendelse om støjgener fra rågekanon, Coop Norden Danmark (4106), Beringvej 2, 8361 Hasselager 2026",
+    "dokumentnr": "16529344",
+    "brevdato": "2026-11-13T00:00:00",
+    "journalDate": "2026-11-16T09:30:11",
+    "sagsnr": "GEO-2013-033013",
+    "ansvarligEnhed": "MTM-Forvaltningschef/Natur og Miljø/Virksomheder",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-11-16",
+    "_status": "new"
+  },
+  {
+    "id": 387840,
+    "dokumentidentifikation": "GEO-2025-008317/13",
+    "dokumenttitel": "Færdigmelding jordvarme, Norsmindevej 125, 8340 Malling 2026",
+    "dokumentnr": "16529249",
+    "brevdato": "2026-11-15T00:00:00",
+    "journalDate": "2026-11-16T09:23:22",
+    "sagsnr": "GEO-2025-008317",
+    "ansvarligEnhed": "MTM-By og Natur/Klima og Energi/Virksomheder",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-11-16",
+    "_status": "new"
+  },
+  {
+    "id": 387839,
+    "dokumentidentifikation": "GEO-2026-002627/24",
+    "dokumenttitel": "Formelt påkrav – vedvarende støjgener, uvildig støjmåling og kommende boligretssag – Bytoften 19",
+    "dokumentnr": "16528582",
+    "brevdato": "2026-11-13T00:00:00",
+    "journalDate": "2026-11-16T08:24:23",
+    "sagsnr": "GEO-2026-002627",
+    "ansvarligEnhed": "MTM-By og Natur/Klima og Energi/Virksomheder",
+    "dokumenttype": "Indgående",
+    "_department": "MTM-",
+    "_department_name": "Teknik og Miljø",
+    "_queried_date": "2026-11-16",
+    "_status": "new"
+  },
+  {
     "id": 387574,
     "dokumentidentifikation": "EMN-2026-000070/56",
     "dokumenttitel": "Erhverv Aarhus: Kom med til årets Generalforsamling // Bylivspuljen skaber mere jul i Aarhus // Afskedsreception for Poul Dalsgaard // Vil du være mentor?",
@@ -1243,8 +1363,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-09",
-    "_status": "new"
+    "_queried_date": "2026-11-09"
   },
   {
     "id": 387456,
@@ -1300,8 +1419,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-09",
-    "_status": "new"
+    "_queried_date": "2026-11-09"
   },
   {
     "id": 387453,
@@ -1357,8 +1475,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-09",
-    "_status": "new"
+    "_queried_date": "2026-11-09"
   },
   {
     "id": 387450,
@@ -1386,8 +1503,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-09",
-    "_status": "new"
+    "_queried_date": "2026-11-09"
   },
   {
     "id": 387435,
@@ -1415,8 +1531,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-09",
-    "_status": "new"
+    "_queried_date": "2026-11-09"
   },
   {
     "id": 387449,
@@ -1458,8 +1573,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-09",
-    "_status": "new"
+    "_queried_date": "2026-11-09"
   },
   {
     "id": 387801,
@@ -1473,8 +1587,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-09",
-    "_status": "new"
+    "_queried_date": "2026-11-09"
   },
   {
     "id": 387447,
@@ -1628,175 +1741,6 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-09",
-    "_status": "new"
-  },
-  {
-    "id": 387292,
-    "dokumentidentifikation": "GEO-2019-017478/83",
-    "dokumenttitel": "Svar fra Kredsløb - Tak for feedback",
-    "dokumentnr": "16494912",
-    "brevdato": "2026-11-03T00:00:00",
-    "journalDate": "2026-11-07T16:52:31",
-    "sagsnr": "GEO-2019-017478",
-    "ansvarligEnhed": "MTM-Forvaltningschef/Plan/Lokalplanlægning og VVM",
-    "dokumenttype": "Indgående",
-    "_department": "MTM-",
-    "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-07"
-  },
-  {
-    "id": 387434,
-    "dokumentidentifikation": "GEO-2026-008296/6",
-    "dokumenttitel": "Kvittering for modtagelse af ansøgning om dispensation til fældning af bevaringsværdig beplantning - Atlasvej 5C",
-    "dokumentnr": "16494881",
-    "brevdato": "2026-11-07T00:00:00",
-    "journalDate": "2026-11-07T11:27:14",
-    "sagsnr": "GEO-2026-008296",
-    "ansvarligEnhed": "MTM-By og Natur/Byliv/Grønne Områder",
-    "dokumenttype": "Indgående",
-    "_department": "MTM-",
-    "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-07"
-  },
-  {
-    "id": 387433,
-    "dokumentidentifikation": "GEO-2026-008296/1",
-    "dokumenttitel": "Ansøgning om dispensation til fældning af bevaringsværdig beplantning - 1 (fra Selvbetjening.aarhuskommune.dk)",
-    "dokumentnr": "16494879",
-    "brevdato": "2026-11-02T00:00:00",
-    "journalDate": "2026-11-07T11:18:15",
-    "sagsnr": "GEO-2026-008296",
-    "ansvarligEnhed": "MTM-By og Natur/Byliv/Grønne Områder",
-    "dokumenttype": "Indgående",
-    "_department": "MTM-",
-    "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-07"
-  },
-  {
-    "id": 387432,
-    "dokumentidentifikation": "GEO-2026-008053/14",
-    "dokumenttitel": "Anmodning om supplerende oplysninger i forbindelse med ansøgning om dispensation til fældning af bevaringsværdig beplantning - Libravej 1",
-    "dokumentnr": "16494873",
-    "brevdato": "2026-11-07T00:00:00",
-    "journalDate": "2026-11-07T11:11:38",
-    "sagsnr": "GEO-2026-008053",
-    "ansvarligEnhed": "MTM-By og Natur/Byliv/Grønne Områder",
-    "dokumenttype": "Indgående",
-    "_department": "MTM-",
-    "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-07"
-  },
-  {
-    "id": 387431,
-    "dokumentidentifikation": "GEO-2026-008053/13",
-    "dokumenttitel": "SV: Tilladelse til fældning af bevaringsværdige træer - Grundejerforeningen Skovhusene, 8240 Risskov",
-    "dokumentnr": "16494872",
-    "brevdato": "2026-11-07T00:00:00",
-    "journalDate": "2026-11-07T11:10:59",
-    "sagsnr": "GEO-2026-008053",
-    "ansvarligEnhed": "MTM-By og Natur/Byliv/Grønne Områder",
-    "dokumenttype": "Indgående",
-    "_department": "MTM-",
-    "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-07"
-  },
-  {
-    "id": 387430,
-    "dokumentidentifikation": "GEO-2026-008053/12",
-    "dokumenttitel": "Re: Kvittering for modtagelse af ansøgning om dispensation til fældning af bevaringsværdig beplantning - Libravej 1",
-    "dokumentnr": "16494869",
-    "brevdato": "2026-10-29T00:00:00",
-    "journalDate": "2026-11-07T11:01:07",
-    "sagsnr": "GEO-2026-008053",
-    "ansvarligEnhed": "MTM-By og Natur/Byliv/Grønne Områder",
-    "dokumenttype": "Indgående",
-    "_department": "MTM-",
-    "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-07"
-  },
-  {
-    "id": 387429,
-    "dokumentidentifikation": "GEO-2026-008295/4",
-    "dokumenttitel": "SV: Tilladelse til fældning af bevaringsværdige træer - Grundejerforeningen Skovhusene, 8240 Risskov",
-    "dokumentnr": "16494868",
-    "brevdato": "2026-11-07T00:00:00",
-    "journalDate": "2026-11-07T10:57:19",
-    "sagsnr": "GEO-2026-008295",
-    "ansvarligEnhed": "MTM-By og Natur/Byliv/Grønne Områder",
-    "dokumenttype": "Indgående",
-    "_department": "MTM-",
-    "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-07"
-  },
-  {
-    "id": 387428,
-    "dokumentidentifikation": "GEO-2026-008295/3",
-    "dokumenttitel": "Re: Tilladelse til fældning af bevaringsværdige træer - Grundejerforeningen Skovhusene, 8240 Risskov",
-    "dokumentnr": "16494867",
-    "brevdato": "2026-11-05T00:00:00",
-    "journalDate": "2026-11-07T10:56:49",
-    "sagsnr": "GEO-2026-008295",
-    "ansvarligEnhed": "MTM-By og Natur/Byliv/Grønne Områder",
-    "dokumenttype": "Indgående",
-    "_department": "MTM-",
-    "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-07"
-  },
-  {
-    "id": 387427,
-    "dokumentidentifikation": "GEO-2026-008295/2",
-    "dokumenttitel": "Tilladelse til fældning af bevaringsværdige træer - Grundejerforeningen Skovhusene, 8240 Risskov",
-    "dokumentnr": "16494866",
-    "brevdato": "2026-11-05T00:00:00",
-    "journalDate": "2026-11-07T10:56:12",
-    "sagsnr": "GEO-2026-008295",
-    "ansvarligEnhed": "MTM-By og Natur/Byliv/Grønne Områder",
-    "dokumenttype": "Indgående",
-    "_department": "MTM-",
-    "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-07"
-  },
-  {
-    "id": 387426,
-    "dokumentidentifikation": "GEO-2026-008295/1",
-    "dokumenttitel": "VS: Autosvar:Tilladelse til fældning af bevaringsværdige træer - Grundejerforeningen Skovhusene, 8240 Risskov",
-    "dokumentnr": "16494865",
-    "brevdato": "2026-11-02T00:00:00",
-    "journalDate": "2026-11-07T10:55:37",
-    "sagsnr": "GEO-2026-008295",
-    "ansvarligEnhed": "MTM-By og Natur/Byliv/Grønne Områder",
-    "dokumenttype": "Indgående",
-    "_department": "MTM-",
-    "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-07"
-  },
-  {
-    "id": 387425,
-    "dokumentidentifikation": "GEO-2026-006383/25",
-    "dokumenttitel": "Dokumentation for genplantning af bevaringsværdig beplantning - Vegavej 34",
-    "dokumentnr": "16494861",
-    "brevdato": "2026-11-07T00:00:00",
-    "journalDate": "2026-11-07T10:25:46",
-    "sagsnr": "GEO-2026-006383",
-    "ansvarligEnhed": "MTM-By og Natur/Byliv/Grønne Områder",
-    "dokumenttype": "Indgående",
-    "_department": "MTM-",
-    "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-07"
-  },
-  {
-    "id": 387424,
-    "dokumentidentifikation": "GEO-2026-006383/23",
-    "dokumenttitel": "SV: Ansøgning om dispensation til fældning af bevaringsværdig beplantning - 1 (fra Selvbetjening.aarhuskommune.dk)",
-    "dokumentnr": "16494860",
-    "brevdato": "2026-11-06T00:00:00",
-    "journalDate": "2026-11-07T10:22:43",
-    "sagsnr": "GEO-2026-006383",
-    "ansvarligEnhed": "MTM-By og Natur/Byliv/Grønne Områder",
-    "dokumenttype": "Indgående",
-    "_department": "MTM-",
-    "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-07"
+    "_queried_date": "2026-11-09"
   }
 ]
