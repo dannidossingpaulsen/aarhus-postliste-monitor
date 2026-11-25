@@ -1,5 +1,80 @@
 [
   {
+    "id": 388457,
+    "dokumentidentifikation": "EMN-2026-000073/317",
+    "dokumenttitel": "Anmodning om aktindsigt fra RisskovLIV i mail fra postlisten vedr. Badevej 25",
+    "dokumentnr": "16564751",
+    "brevdato": "2026-11-23T13:49:31",
+    "journalDate": "2026-11-24T10:08:18",
+    "sagsnr": "EMN-2026-000073",
+    "ansvarligEnhed": "MBA-Byråd og Jura/Byrådsservice og Jura",
+    "dokumenttype": "Indgående",
+    "_department": "MBA-",
+    "_department_name": "Borgmesterens Afdeling",
+    "_queried_date": "2026-11-24",
+    "_status": "new"
+  },
+  {
+    "id": 388456,
+    "dokumentidentifikation": "EMN-2026-000073/314",
+    "dokumenttitel": "Anmodning om aktindsigt fra Din Avis Aarhus i mail fra postlisten vedr. Badevej 25",
+    "dokumentnr": "16564733",
+    "brevdato": "2026-11-23T10:20:51",
+    "journalDate": "2026-11-24T10:06:30",
+    "sagsnr": "EMN-2026-000073",
+    "ansvarligEnhed": "MBA-Byråd og Jura/Byrådsservice og Jura",
+    "dokumenttype": "Indgående",
+    "_department": "MBA-",
+    "_department_name": "Borgmesterens Afdeling",
+    "_queried_date": "2026-11-24",
+    "_status": "new"
+  },
+  {
+    "id": 388455,
+    "dokumentidentifikation": "AKT-2026-002136/1",
+    "dokumenttitel": "Anmodning om aktindsigt: Aarhus Kommunes udtalelse til Folketingets Ombudsmand om kommunens brug af AI (2026)",
+    "dokumentnr": "16564625",
+    "brevdato": "2026-11-23T00:00:00",
+    "journalDate": "2026-11-24T10:00:04",
+    "sagsnr": "AKT-2026-002136",
+    "ansvarligEnhed": "MBA-Sekretariat, Erhverv og Organisation/Kommunikation og Fælles Platforme",
+    "dokumenttype": "Indgående",
+    "_department": "MBA-",
+    "_department_name": "Borgmesterens Afdeling",
+    "_queried_date": "2026-11-24",
+    "_status": "new"
+  },
+  {
+    "id": 388454,
+    "dokumentidentifikation": "AKT-2026-002135/1",
+    "dokumenttitel": "Anmodning om aktindsigt - sygefravær den 19. og 20. november 2025 og 2026",
+    "dokumentnr": "16564518",
+    "brevdato": "2026-11-23T00:00:00",
+    "journalDate": "2026-11-24T09:52:54",
+    "sagsnr": "AKT-2026-002135",
+    "ansvarligEnhed": "MBA-Sekretariat, Erhverv og Organisation/Kommunikation og Fælles Platforme",
+    "dokumenttype": "Indgående",
+    "_department": "MBA-",
+    "_department_name": "Borgmesterens Afdeling",
+    "_queried_date": "2026-11-24",
+    "_status": "new"
+  },
+  {
+    "id": 388452,
+    "dokumentidentifikation": "EMN-2026-000073/313",
+    "dokumenttitel": "Meningstilkendegivelse til Aarhus Byråd: Anmodning om at udvide radius for Limecykler",
+    "dokumentnr": "16563782",
+    "brevdato": "2026-11-23T11:36:37",
+    "journalDate": "2026-11-24T08:54:25",
+    "sagsnr": "EMN-2026-000073",
+    "ansvarligEnhed": "MBA-Byråd og Jura/Byrådsservice og Jura",
+    "dokumenttype": "Indgående",
+    "_department": "MBA-",
+    "_department_name": "Borgmesterens Afdeling",
+    "_queried_date": "2026-11-24",
+    "_status": "new"
+  },
+  {
     "id": 388206,
     "dokumentidentifikation": "GEO-2026-008670/7",
     "dokumenttitel": "SV: Østermøllevej. Trige.Udbrændt bil",
@@ -11,8 +86,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-23",
-    "_status": "new"
+    "_queried_date": "2026-11-23"
   },
   {
     "id": 388205,
@@ -26,8 +100,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-23",
-    "_status": "new"
+    "_queried_date": "2026-11-23"
   },
   {
     "id": 388098,
@@ -69,8 +142,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-20",
-    "_status": "new"
+    "_queried_date": "2026-11-20"
   },
   {
     "id": 388196,
@@ -84,8 +156,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-20",
-    "_status": "new"
+    "_queried_date": "2026-11-20"
   },
   {
     "id": 388195,
@@ -99,8 +170,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-20",
-    "_status": "new"
+    "_queried_date": "2026-11-20"
   },
   {
     "id": 388194,
@@ -114,8 +184,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-20",
-    "_status": "new"
+    "_queried_date": "2026-11-20"
   },
   {
     "id": 388193,
@@ -129,8 +198,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-20",
-    "_status": "new"
+    "_queried_date": "2026-11-20"
   },
   {
     "id": 388192,
@@ -144,8 +212,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-20",
-    "_status": "new"
+    "_queried_date": "2026-11-20"
   },
   {
     "id": 388191,
@@ -159,8 +226,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-20",
-    "_status": "new"
+    "_queried_date": "2026-11-20"
   },
   {
     "id": 388190,
@@ -174,8 +240,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-20",
-    "_status": "new"
+    "_queried_date": "2026-11-20"
   },
   {
     "id": 388189,
@@ -189,8 +254,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-20",
-    "_status": "new"
+    "_queried_date": "2026-11-20"
   },
   {
     "id": 388188,
@@ -204,8 +268,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-20",
-    "_status": "new"
+    "_queried_date": "2026-11-20"
   },
   {
     "id": 388187,
@@ -219,8 +282,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-20",
-    "_status": "new"
+    "_queried_date": "2026-11-20"
   },
   {
     "id": 388186,
@@ -234,8 +296,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-20",
-    "_status": "new"
+    "_queried_date": "2026-11-20"
   },
   {
     "id": 388185,
@@ -249,8 +310,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-20",
-    "_status": "new"
+    "_queried_date": "2026-11-20"
   },
   {
     "id": 388184,
@@ -264,8 +324,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-20",
-    "_status": "new"
+    "_queried_date": "2026-11-20"
   },
   {
     "id": 388183,
@@ -279,8 +338,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-20",
-    "_status": "new"
+    "_queried_date": "2026-11-20"
   },
   {
     "id": 388088,
@@ -350,8 +408,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-19",
-    "_status": "new"
+    "_queried_date": "2026-11-19"
   },
   {
     "id": 388172,
@@ -365,8 +422,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-19",
-    "_status": "new"
+    "_queried_date": "2026-11-19"
   },
   {
     "id": 388076,
@@ -408,8 +464,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-19",
-    "_status": "new"
+    "_queried_date": "2026-11-19"
   },
   {
     "id": 388074,
@@ -451,8 +506,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-19",
-    "_status": "new"
+    "_queried_date": "2026-11-19"
   },
   {
     "id": 388169,
@@ -466,8 +520,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-19",
-    "_status": "new"
+    "_queried_date": "2026-11-19"
   },
   {
     "id": 388168,
@@ -481,8 +534,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-19",
-    "_status": "new"
+    "_queried_date": "2026-11-19"
   },
   {
     "id": 388167,
@@ -496,8 +548,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-19",
-    "_status": "new"
+    "_queried_date": "2026-11-19"
   },
   {
     "id": 388166,
@@ -511,8 +562,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-19",
-    "_status": "new"
+    "_queried_date": "2026-11-19"
   },
   {
     "id": 388165,
@@ -526,8 +576,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-19",
-    "_status": "new"
+    "_queried_date": "2026-11-19"
   },
   {
     "id": 388164,
@@ -541,8 +590,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-19",
-    "_status": "new"
+    "_queried_date": "2026-11-19"
   },
   {
     "id": 388071,
@@ -570,8 +618,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-19",
-    "_status": "new"
+    "_queried_date": "2026-11-19"
   },
   {
     "id": 388162,
@@ -585,8 +632,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-19",
-    "_status": "new"
+    "_queried_date": "2026-11-19"
   },
   {
     "id": 388070,
@@ -614,8 +660,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-19",
-    "_status": "new"
+    "_queried_date": "2026-11-19"
   },
   {
     "id": 388160,
@@ -629,8 +674,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-19",
-    "_status": "new"
+    "_queried_date": "2026-11-19"
   },
   {
     "id": 388159,
@@ -644,8 +688,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-19",
-    "_status": "new"
+    "_queried_date": "2026-11-19"
   },
   {
     "id": 388158,
@@ -659,8 +702,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-19",
-    "_status": "new"
+    "_queried_date": "2026-11-19"
   },
   {
     "id": 388157,
@@ -674,8 +716,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-19",
-    "_status": "new"
+    "_queried_date": "2026-11-19"
   },
   {
     "id": 388067,
@@ -745,8 +786,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-18",
-    "_status": "new"
+    "_queried_date": "2026-11-18"
   },
   {
     "id": 388046,
@@ -774,8 +814,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-18",
-    "_status": "new"
+    "_queried_date": "2026-11-18"
   },
   {
     "id": 388045,
@@ -817,8 +856,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-18",
-    "_status": "new"
+    "_queried_date": "2026-11-18"
   },
   {
     "id": 388043,
@@ -930,8 +968,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-18",
-    "_status": "new"
+    "_queried_date": "2026-11-18"
   },
   {
     "id": 388036,
@@ -973,8 +1010,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-18",
-    "_status": "new"
+    "_queried_date": "2026-11-18"
   },
   {
     "id": 388034,
@@ -1016,8 +1052,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-18",
-    "_status": "new"
+    "_queried_date": "2026-11-18"
   },
   {
     "id": 387880,
@@ -1101,8 +1136,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-17",
-    "_status": "new"
+    "_queried_date": "2026-11-17"
   },
   {
     "id": 388018,
@@ -1270,8 +1304,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-17",
-    "_status": "new"
+    "_queried_date": "2026-11-17"
   },
   {
     "id": 388007,
@@ -1523,8 +1556,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-16",
-    "_status": "new"
+    "_queried_date": "2026-11-16"
   },
   {
     "id": 387993,
@@ -1552,8 +1584,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-16",
-    "_status": "new"
+    "_queried_date": "2026-11-16"
   },
   {
     "id": 387992,
@@ -1735,8 +1766,7 @@
     "dokumenttype": "Indgående",
     "_department": "MTM-",
     "_department_name": "Teknik og Miljø",
-    "_queried_date": "2026-11-16",
-    "_status": "new"
+    "_queried_date": "2026-11-16"
   },
   {
     "id": 387839,
