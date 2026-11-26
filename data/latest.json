@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-11-25T18:47:13.957113+01:00",
+  "generated_at": "2026-11-26T18:30:20.499606+01:00",
   "timezone": "Europe/Copenhagen",
   "window_days": 10,
-  "window_start": "2026-11-16",
-  "window_end": "2026-11-25",
+  "window_start": "2026-11-17",
+  "window_end": "2026-11-26",
   "departments": {
     "MBA-": {
       "name": "Borgmesterens Afdeling",
-      "fetched_unique_posts_in_window": 19,
-      "new_or_changed_posts": 5
+      "fetched_unique_posts_in_window": 15,
+      "new_or_changed_posts": 0
     },
     "MTM-": {
       "name": "Teknik og Miljø",
-      "fetched_unique_posts_in_window": 114,
-      "new_or_changed_posts": 0
+      "fetched_unique_posts_in_window": 85,
+      "new_or_changed_posts": 4
     }
   },
   "checked_dates": [
+    {
+      "department": "MBA-",
+      "department_name": "Borgmesterens Afdeling",
+      "date": "2026-11-26",
+      "count": 0
+    },
+    {
+      "department": "MTM-",
+      "department_name": "Teknik og Miljø",
+      "date": "2026-11-26",
+      "count": 0
+    },
     {
       "department": "MBA-",
       "department_name": "Borgmesterens Afdeling",
@@ -51,7 +63,7 @@
       "department": "MTM-",
       "department_name": "Teknik og Miljø",
       "date": "2026-11-23",
-      "count": 2
+      "count": 6
     },
     {
       "department": "MBA-",
@@ -124,94 +136,67 @@
       "department_name": "Teknik og Miljø",
       "date": "2026-11-17",
       "count": 17
-    },
-    {
-      "department": "MBA-",
-      "department_name": "Borgmesterens Afdeling",
-      "date": "2026-11-16",
-      "count": 4
-    },
-    {
-      "department": "MTM-",
-      "department_name": "Teknik og Miljø",
-      "date": "2026-11-16",
-      "count": 33
     }
   ],
   "new_or_changed": [
     {
-      "id": 388457,
-      "dokumentidentifikation": "EMN-2026-000073/317",
-      "dokumenttitel": "Anmodning om aktindsigt fra RisskovLIV i mail fra postlisten vedr. Badevej 25",
-      "dokumentnr": "16564751",
-      "brevdato": "2026-11-23T13:49:31",
-      "journalDate": "2026-11-24T10:08:18",
-      "sagsnr": "EMN-2026-000073",
-      "ansvarligEnhed": "MBA-Byråd og Jura/Byrådsservice og Jura",
-      "dokumenttype": "Indgående",
-      "_department": "MBA-",
-      "_department_name": "Borgmesterens Afdeling",
-      "_queried_date": "2026-11-24",
-      "_status": "new"
-    },
-    {
-      "id": 388456,
-      "dokumentidentifikation": "EMN-2026-000073/314",
-      "dokumenttitel": "Anmodning om aktindsigt fra Din Avis Aarhus i mail fra postlisten vedr. Badevej 25",
-      "dokumentnr": "16564733",
-      "brevdato": "2026-11-23T10:20:51",
-      "journalDate": "2026-11-24T10:06:30",
-      "sagsnr": "EMN-2026-000073",
-      "ansvarligEnhed": "MBA-Byråd og Jura/Byrådsservice og Jura",
-      "dokumenttype": "Indgående",
-      "_department": "MBA-",
-      "_department_name": "Borgmesterens Afdeling",
-      "_queried_date": "2026-11-24",
-      "_status": "new"
-    },
-    {
-      "id": 388455,
-      "dokumentidentifikation": "AKT-2026-002136/1",
-      "dokumenttitel": "Anmodning om aktindsigt: Aarhus Kommunes udtalelse til Folketingets Ombudsmand om kommunens brug af AI (2026)",
-      "dokumentnr": "16564625",
+      "id": 388468,
+      "dokumentidentifikation": "EMN-2026-013557/1",
+      "dokumenttitel": "SV Besøg Harlev Fællesråd",
+      "dokumentnr": "16562078",
       "brevdato": "2026-11-23T00:00:00",
-      "journalDate": "2026-11-24T10:00:04",
-      "sagsnr": "AKT-2026-002136",
-      "ansvarligEnhed": "MBA-Sekretariat, Erhverv og Organisation/Kommunikation og Fælles Platforme",
+      "journalDate": "2026-11-23T15:37:50",
+      "sagsnr": "EMN-2026-013557",
+      "ansvarligEnhed": "MTM-Fælles Stabe/Rådmandssekretariatet",
       "dokumenttype": "Indgående",
-      "_department": "MBA-",
-      "_department_name": "Borgmesterens Afdeling",
-      "_queried_date": "2026-11-24",
+      "_department": "MTM-",
+      "_department_name": "Teknik og Miljø",
+      "_queried_date": "2026-11-23",
       "_status": "new"
     },
     {
-      "id": 388454,
-      "dokumentidentifikation": "AKT-2026-002135/1",
-      "dokumenttitel": "Anmodning om aktindsigt - sygefravær den 19. og 20. november 2025 og 2026",
-      "dokumentnr": "16564518",
+      "id": 388467,
+      "dokumentidentifikation": "EMN-2026-013555/1",
+      "dokumenttitel": "Bekymringshenvendelse vedr. Trafik-ø Hasle",
+      "dokumentnr": "16562031",
       "brevdato": "2026-11-23T00:00:00",
-      "journalDate": "2026-11-24T09:52:54",
-      "sagsnr": "AKT-2026-002135",
-      "ansvarligEnhed": "MBA-Sekretariat, Erhverv og Organisation/Kommunikation og Fælles Platforme",
+      "journalDate": "2026-11-23T15:30:42",
+      "sagsnr": "EMN-2026-013555",
+      "ansvarligEnhed": "MTM-Fælles Stabe/Rådmandssekretariatet",
       "dokumenttype": "Indgående",
-      "_department": "MBA-",
-      "_department_name": "Borgmesterens Afdeling",
-      "_queried_date": "2026-11-24",
+      "_department": "MTM-",
+      "_department_name": "Teknik og Miljø",
+      "_queried_date": "2026-11-23",
       "_status": "new"
     },
     {
-      "id": 388452,
-      "dokumentidentifikation": "EMN-2026-000073/313",
-      "dokumenttitel": "Meningstilkendegivelse til Aarhus Byråd: Anmodning om at udvide radius for Limecykler",
-      "dokumentnr": "16563782",
-      "brevdato": "2026-11-23T11:36:37",
-      "journalDate": "2026-11-24T08:54:25",
-      "sagsnr": "EMN-2026-000073",
-      "ansvarligEnhed": "MBA-Byråd og Jura/Byrådsservice og Jura",
+      "id": 388466,
+      "dokumentidentifikation": "EMN-2026-013552/1",
+      "dokumenttitel": "Att: nikolaj Bang",
+      "dokumentnr": "16561921",
+      "brevdato": "2026-11-23T15:09:56",
+      "journalDate": "2026-11-23T15:13:26",
+      "sagsnr": "EMN-2026-013552",
+      "ansvarligEnhed": "MTM-Fælles Stabe/Rådmandssekretariatet",
       "dokumenttype": "Indgående",
-      "_department": "MBA-",
-      "_department_name": "Borgmesterens Afdeling",
-      "_queried_date": "2026-11-24",
+      "_department": "MTM-",
+      "_department_name": "Teknik og Miljø",
+      "_queried_date": "2026-11-23",
+      "_status": "new"
+    },
+    {
+      "id": 388465,
+      "dokumentidentifikation": "EMN-2026-013549/1",
+      "dokumenttitel": "Hørkrams centerudvidelse i Aarhus – behov for hjælp til fremdrift",
+      "dokumentnr": "16561846",
+      "brevdato": "2026-11-23T00:00:00",
+      "journalDate": "2026-11-23T15:08:05",
+      "sagsnr": "EMN-2026-013549",
+      "ansvarligEnhed": "MTM-Fælles Stabe/Rådmandssekretariatet",
+      "dokumenttype": "Indgående",
+      "_department": "MTM-",
+      "_department_name": "Teknik og Miljø",
+      "_queried_date": "2026-11-23",
       "_status": "new"
     }
   ],
