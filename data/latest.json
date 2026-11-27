@@ -1,27 +1,39 @@
 {
-  "generated_at": "2026-11-26T18:30:20.499606+01:00",
+  "generated_at": "2026-11-27T18:12:30.336180+01:00",
   "timezone": "Europe/Copenhagen",
   "window_days": 10,
-  "window_start": "2026-11-17",
-  "window_end": "2026-11-26",
+  "window_start": "2026-11-18",
+  "window_end": "2026-11-27",
   "departments": {
     "MBA-": {
       "name": "Borgmesterens Afdeling",
-      "fetched_unique_posts_in_window": 15,
-      "new_or_changed_posts": 0
+      "fetched_unique_posts_in_window": 18,
+      "new_or_changed_posts": 7
     },
     "MTM-": {
       "name": "Teknik og Miljø",
-      "fetched_unique_posts_in_window": 85,
-      "new_or_changed_posts": 4
+      "fetched_unique_posts_in_window": 69,
+      "new_or_changed_posts": 1
     }
   },
   "checked_dates": [
     {
       "department": "MBA-",
       "department_name": "Borgmesterens Afdeling",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "count": 0
+    },
+    {
+      "department": "MTM-",
+      "department_name": "Teknik og Miljø",
+      "date": "2026-11-27",
+      "count": 0
+    },
+    {
+      "department": "MBA-",
+      "department_name": "Borgmesterens Afdeling",
+      "date": "2026-11-26",
+      "count": 2
     },
     {
       "department": "MTM-",
@@ -33,19 +45,19 @@
       "department": "MBA-",
       "department_name": "Borgmesterens Afdeling",
       "date": "2026-11-25",
-      "count": 0
+      "count": 4
     },
     {
       "department": "MTM-",
       "department_name": "Teknik og Miljø",
       "date": "2026-11-25",
-      "count": 0
+      "count": 1
     },
     {
       "department": "MBA-",
       "department_name": "Borgmesterens Afdeling",
       "date": "2026-11-24",
-      "count": 5
+      "count": 6
     },
     {
       "department": "MTM-",
@@ -124,79 +136,127 @@
       "department_name": "Teknik og Miljø",
       "date": "2026-11-18",
       "count": 21
-    },
-    {
-      "department": "MBA-",
-      "department_name": "Borgmesterens Afdeling",
-      "date": "2026-11-17",
-      "count": 4
-    },
-    {
-      "department": "MTM-",
-      "department_name": "Teknik og Miljø",
-      "date": "2026-11-17",
-      "count": 17
     }
   ],
   "new_or_changed": [
     {
-      "id": 388468,
-      "dokumentidentifikation": "EMN-2026-013557/1",
-      "dokumenttitel": "SV Besøg Harlev Fællesråd",
-      "dokumentnr": "16562078",
-      "brevdato": "2026-11-23T00:00:00",
-      "journalDate": "2026-11-23T15:37:50",
-      "sagsnr": "EMN-2026-013557",
-      "ansvarligEnhed": "MTM-Fælles Stabe/Rådmandssekretariatet",
+      "id": 388550,
+      "dokumentidentifikation": "EMN-2026-000073/331",
+      "dokumenttitel": "Meningstilkendegivelse til Aarhus Byråd: Spildevandsrensning",
+      "dokumentnr": "16574912",
+      "brevdato": "2026-11-26T08:55:19",
+      "journalDate": "2026-11-26T09:00:09",
+      "sagsnr": "EMN-2026-000073",
+      "ansvarligEnhed": "MBA-Byråd og Jura/Byrådsservice og Jura",
       "dokumenttype": "Indgående",
-      "_department": "MTM-",
-      "_department_name": "Teknik og Miljø",
-      "_queried_date": "2026-11-23",
+      "_department": "MBA-",
+      "_department_name": "Borgmesterens Afdeling",
+      "_queried_date": "2026-11-26",
       "_status": "new"
     },
     {
-      "id": 388467,
-      "dokumentidentifikation": "EMN-2026-013555/1",
-      "dokumenttitel": "Bekymringshenvendelse vedr. Trafik-ø Hasle",
-      "dokumentnr": "16562031",
-      "brevdato": "2026-11-23T00:00:00",
-      "journalDate": "2026-11-23T15:30:42",
-      "sagsnr": "EMN-2026-013555",
-      "ansvarligEnhed": "MTM-Fælles Stabe/Rådmandssekretariatet",
+      "id": 388549,
+      "dokumentidentifikation": "EMN-2026-000073/326",
+      "dokumenttitel": "Invitation til Aarhus Byråd: Orange dage i Aarhus - stop vold mod kvinder, 25/11-10/12",
+      "dokumentnr": "16574710",
+      "brevdato": "2026-11-25T00:00:00",
+      "journalDate": "2026-11-26T08:47:20",
+      "sagsnr": "EMN-2026-000073",
+      "ansvarligEnhed": "MBA-Byråd og Jura/Byrådsservice og Jura",
       "dokumenttype": "Indgående",
-      "_department": "MTM-",
-      "_department_name": "Teknik og Miljø",
-      "_queried_date": "2026-11-23",
+      "_department": "MBA-",
+      "_department_name": "Borgmesterens Afdeling",
+      "_queried_date": "2026-11-26",
       "_status": "new"
     },
     {
-      "id": 388466,
-      "dokumentidentifikation": "EMN-2026-013552/1",
-      "dokumenttitel": "Att: nikolaj Bang",
-      "dokumentnr": "16561921",
-      "brevdato": "2026-11-23T15:09:56",
-      "journalDate": "2026-11-23T15:13:26",
-      "sagsnr": "EMN-2026-013552",
-      "ansvarligEnhed": "MTM-Fælles Stabe/Rådmandssekretariatet",
+      "id": 388548,
+      "dokumentidentifikation": "GEO-2022-504849/29",
+      "dokumenttitel": "Approbation 1915 - Tillæg B. Ansøger anmoder om oprettelse af Tillæg i SharePoint og adgang dertil",
+      "dokumentnr": "16574010",
+      "brevdato": "2026-11-25T00:00:00",
+      "journalDate": "2026-11-25T18:27:25",
+      "sagsnr": "GEO-2022-504849",
+      "ansvarligEnhed": "MTM-Vicedirektør/Byrum/Byggemodning og Bydesign",
       "dokumenttype": "Indgående",
       "_department": "MTM-",
       "_department_name": "Teknik og Miljø",
-      "_queried_date": "2026-11-23",
+      "_queried_date": "2026-11-25",
       "_status": "new"
     },
     {
-      "id": 388465,
-      "dokumentidentifikation": "EMN-2026-013549/1",
-      "dokumenttitel": "Hørkrams centerudvidelse i Aarhus – behov for hjælp til fremdrift",
-      "dokumentnr": "16561846",
+      "id": 388547,
+      "dokumentidentifikation": "AKT-2026-002156/1",
+      "dokumenttitel": "Anmodning om aktindsigt i diverse forhold vedr. Aarhus Airport",
+      "dokumentnr": "16572035",
       "brevdato": "2026-11-23T00:00:00",
-      "journalDate": "2026-11-23T15:08:05",
-      "sagsnr": "EMN-2026-013549",
-      "ansvarligEnhed": "MTM-Fælles Stabe/Rådmandssekretariatet",
+      "journalDate": "2026-11-25T12:49:33",
+      "sagsnr": "AKT-2026-002156",
+      "ansvarligEnhed": "MBA-Sekretariat, Erhverv og Organisation/Kommunikation og Fælles Platforme",
       "dokumenttype": "Indgående",
-      "_department": "MTM-",
-      "_department_name": "Teknik og Miljø",
-      "_queried_date": "2026-11-23",
+      "_department": "MBA-",
+      "_department_name": "Borgmesterens Afdeling",
+      "_queried_date": "2026-11-25",
+      "_status": "new"
+    },
+    {
+      "id": 388546,
+      "dokumentidentifikation": "EMN-2026-000073/322",
+      "dokumenttitel": "Til Aarhus Byråd: Referatet fra mødet i KKR Midtjylland den 17. november + Save the date for KKR konference om det specialiserede socialområde",
+      "dokumentnr": "16572019",
+      "brevdato": "2026-11-25T12:24:35",
+      "journalDate": "2026-11-25T12:46:02",
+      "sagsnr": "EMN-2026-000073",
+      "ansvarligEnhed": "MBA-Byråd og Jura/Byrådsservice og Jura",
+      "dokumenttype": "Indgående",
+      "_department": "MBA-",
+      "_department_name": "Borgmesterens Afdeling",
+      "_queried_date": "2026-11-25",
+      "_status": "new"
+    },
+    {
+      "id": 388545,
+      "dokumentidentifikation": "EMN-2026-000073/321",
+      "dokumenttitel": "Meningstilkendegivelse til Aarhus Byråd: Bevar buslinje 12 – gør ikke bilen til det oplagte valg",
+      "dokumentnr": "16570439",
+      "brevdato": "2026-11-24T21:28:10",
+      "journalDate": "2026-11-25T10:12:56",
+      "sagsnr": "EMN-2026-000073",
+      "ansvarligEnhed": "MBA-Byråd og Jura/Byrådsservice og Jura",
+      "dokumenttype": "Indgående",
+      "_department": "MBA-",
+      "_department_name": "Borgmesterens Afdeling",
+      "_queried_date": "2026-11-25",
+      "_status": "new"
+    },
+    {
+      "id": 388544,
+      "dokumentidentifikation": "EMN-2026-000073/320",
+      "dokumenttitel": "Meningstilkendegivelse til Aarhus Byråd: Alternativ til Letbanens etape 2 – forslag om studietur til Cannes",
+      "dokumentnr": "16570407",
+      "brevdato": "2026-11-24T20:53:29",
+      "journalDate": "2026-11-25T10:09:58",
+      "sagsnr": "EMN-2026-000073",
+      "ansvarligEnhed": "MBA-Byråd og Jura/Byrådsservice og Jura",
+      "dokumenttype": "Indgående",
+      "_department": "MBA-",
+      "_department_name": "Borgmesterens Afdeling",
+      "_queried_date": "2026-11-25",
+      "_status": "new"
+    },
+    {
+      "id": 388538,
+      "dokumentidentifikation": "AKT-2026-002143/1",
+      "dokumenttitel": "Aktindsigt i forplejning af Aarhus Byråd på rådhuset",
+      "dokumentnr": "16567278",
+      "brevdato": "2026-11-24T00:00:00",
+      "journalDate": "2026-11-24T13:30:28",
+      "sagsnr": "AKT-2026-002143",
+      "ansvarligEnhed": "MBA-Sekretariat, Erhverv og Organisation/Kommunikation og Fælles Platforme",
+      "dokumenttype": "Indgående",
+      "_department": "MBA-",
+      "_department_name": "Borgmesterens Afdeling",
+      "_queried_date": "2026-11-24",
       "_status": "new"
     }
   ],
